@@ -1,0 +1,36 @@
+/* Alineación de texto */
+.text-align-center {
+  text-align: center;
+}
+
+.text-align-left {
+  text-align: left;
+}
+
+.text-align-right {
+  text-align: right;
+}
+
+/*Tamaño de fuente*/
+
+.large-font-size {
+  font-size: 1.8rem;
+}
+
+.medium-font-size {
+  font-size: 1.35rem;
+}
+
+.small-font-size {
+  font-size: 0.9rem;
+}
+
+/* Flext repetitivo */
+
+.content-justification-center {
+  justify-content: center;
+}
+
+.vertically-aligned-center {
+  align-items: center;
+}

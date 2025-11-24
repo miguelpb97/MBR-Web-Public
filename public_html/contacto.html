@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>MB Retrofit Almería</title>
+    <link rel="icon" type="image/png" href="./images/mbr_logo.png" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./css/style.css" />
+  </head>
+
+  <body>
+    <header>
+      <div class="navigation-block">
+        <div>
+          <a href="https://mbretrofitalmeria.es/contacto.html">
+            <img
+              class="navigation-logo"
+              src="./images/mbr_logo.png"
+              alt="Logo"
+            />
+          </a>
+        </div>
+        <div>
+          <ul class="navigation">
+            <li class="navigation-item navigation-link">
+              <a class="navigation-item_content" href="./index.html#servicios">
+                <span class="navigation-item_label">Servicios</span>
+              </a>
+            </li>
+            <li class="navigation-item navigation-link">
+              <a class="navigation-item_content" href="./index.html#faq">
+                <span class="navigation-item_label">FAQ</span>
+              </a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </header>
+
+    <main>
+      <div class="contact-block">
+        <section id="contacto" class="contact">
+          <h2 class="contact-hearder">Contacto</h2>
+          <p class="content-justification-center text-align-center">
+            Para cualquier consulta, puedes escribirnos directamente a través
+            del siguiente formulario o por
+            <a
+              id="link_wp"
+              href="https://api.whatsapp.com/send/?phone=34645482782"
+              >WhatsApp<img
+                src="./images/whatsapp_icon.png"
+                alt="WhatsApp"
+                width="20"
+                height="20"
+            /></a>
+          </p>
+          <p class="content-justification-center text-align-center">
+            Le atenderemos lo antes posible.
+          </p>
+          <form action="php/enviar_consulta.php" method="POST">
+            <input type="text" name="nombre" placeholder="Nombre" required />
+            <input
+              type="email"
+              name="email"
+              placeholder="Correo electrónico"
+              required
+            />
+            <input
+              type="tel"
+              name="telefono"
+              placeholder="Teléfono (Opcional)"
+            />
+            <input
+              type="text"
+              name="vin"
+              placeholder="VIN del vehículo (Si le preocupa la privacidad sobre el vehículo, puede omitir los 6 ultimos dígitos)"
+              required
+            />
+            <textarea
+              placeholder="Mensaje"
+              name="mensaje"
+              rows="5"
+              required
+            ></textarea>
+            <button type="submit">Enviar consulta</button>
+          </form>
+        </section>
+      </div>
+    </main>
+
+    <footer>
+      <div>
+        <p class="text-align-center">
+          MB Retrofit Almería © 2025. Todos los derechos reservados.
+        </p>
+      </div>
+    </footer>
+
+    <script src="./js/faq.js"></script>
+  </body>
+</html>

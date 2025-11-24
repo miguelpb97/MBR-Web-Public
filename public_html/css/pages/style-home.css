@@ -1,0 +1,60 @@
+/* Hero*/
+.hero-section {
+  text-align: center;
+  margin-bottom: 40px;
+  background-color: var(--color-gray-100);
+}
+
+/* Bloque “Quiénes somos” */
+.about-us-block {
+  background-color: var(--color-white);
+  padding: 80px 20px;
+}
+
+.about-us-block-content {
+  max-width: 30%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.about-us-block-content p {
+  padding: 0 !important;
+  margin: 1.5rem auto;
+  text-align: center;
+}
+
+/* Servicios dentro de quiénes somos */
+.about-us-services-block {
+  max-width: 50%;
+  margin: 5rem auto 0 auto;
+  display: flex;
+  justify-content: center;
+  gap: 2.5rem;
+  flex-wrap: wrap;
+}
+
+.about-us-services-block > div {
+  flex: 1;
+  min-width: 260px;
+}
+
+/* Bloque diagnóstico */
+.diagnostic-block {
+  padding: 80px 20px;
+  max-width: 50%;
+  margin: 0 auto;
+}
+
+.diagnostic-sub-block {
+  margin: 3rem auto 0 auto;
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 5rem;
+}
+
+/* FAQ en home */
+.faq-block {
+  padding-left: min(6.5rem, 8vw);
+  padding-right: min(6.5rem, 8vw);
+}

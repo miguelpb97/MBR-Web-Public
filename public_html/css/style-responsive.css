@@ -1,0 +1,124 @@
+/*Tablets (768px – 1024px)*/
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  /* Navegación */
+  .navigation-block {
+    padding-left: 8%;
+    padding-right: 8%;
+  }
+
+  .navigation {
+    gap: 16px;
+    margin: 15px;
+  }
+
+  /* Hero */
+  .hero-image {
+    width: 80%;
+  }
+
+  /* Quiénes somos */
+  .about-us-block-content {
+    max-width: 60%;
+  }
+
+  .about-us-services-block {
+    max-width: 80%;
+  }
+
+  /* Diagnóstico */
+  .diagnostic-block {
+    max-width: 80%;
+  }
+
+  .diagnostic-sub-block {
+    gap: 3rem;
+  }
+}
+
+/* Moviles (menos de 768px) */
+
+@media (max-width: 767px) {
+  /* Layout general */
+  .navigation-block {
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+    flex-direction: column;
+    gap: 1rem;
+  }
+
+  .navigation {
+    justify-content: center;
+    margin: 10px 0;
+  }
+
+  .hero-image {
+    width: 100%;
+  }
+
+  .about-us-block-content,
+  .about-us-services-block,
+  .diagnostic-block {
+    max-width: 100%;
+  }
+
+  /* Columna única en diagnóstico */
+  .about-us-services-block {
+    flex-direction: column;
+    gap: 2rem;
+  }
+
+  .diagnostic-sub-block {
+    flex-direction: column;
+    gap: 2rem;
+  }
+
+  /* 
+    Orden en diagnostico avanzado
+    primero texto y después la imagen
+  */
+
+  /* Primera fila texto + imagen */
+  .diagnostic-sub-block:nth-of-type(2) > div:first-child {
+    order: 1; /* texto */
+  }
+  .diagnostic-sub-block:nth-of-type(2) > div:last-child {
+    order: 2; /* imagen */
+  }
+
+  /* Segunda fila en desktop es imagen + texto, aquí se invierte */
+  .diagnostic-sub-block:nth-of-type(3) > div:first-child {
+    order: 2; /* imagen pasa abajo */
+  }
+  .diagnostic-sub-block:nth-of-type(3) > div:last-child {
+    order: 1; /* texto sube arriba */
+  }
+
+  /* Ajustes de texto */
+  .heading-text {
+    font-size: 2rem;
+  }
+
+  .heading-text-2 {
+    font-size: 1.6rem;
+  }
+
+  .large-font-size {
+    font-size: 1.5rem;
+  }
+
+  .medium-font-size {
+    font-size: 1.2rem;
+  }
+
+  .small-font-size {
+    font-size: 0.85rem;
+  }
+
+  /* Footer en columna */
+  .footer-block {
+    flex-direction: column;
+    gap: 0.5rem;
+    text-align: center;
+  }
+}

@@ -1,0 +1,20 @@
+/* Reset y estilos base */
+@import url("./style-base.css");
+
+/* Layout general (estructuras grandes) */
+@import url("./style-layout.css");
+
+/* Componentes (botones, navegación, FAQ, etc.) */
+@import url("./style-components.css");
+
+/* Utilidades pequeñas */
+@import url("./style-utilities.css");
+
+/* Estilos específicos de página principal */
+@import url("./pages/style-home.css");
+
+/* Estilos específicos de página contacto */
+@import url("./pages/style-contact.css");
+
+/* Responsive */
+@import url("./style-responsive.css");

@@ -1,0 +1,86 @@
+.container-main {
+  margin: auto;
+}
+
+/* Cabecera */
+.navigation-block {
+  padding-left: 15%;
+  padding-right: 15%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.navigation {
+  display: flex;
+  justify-content: flex-end;
+  gap: 20px;
+  margin: 20px;
+}
+
+/* Bloque “Quiénes somos” y servicios */
+.about-us-block {
+  background-color: var(--color-white);
+  padding: 80px 20px;
+}
+
+.about-us-block-content {
+  max-width: 30%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.about-us-services-block {
+  max-width: 50%;
+  margin: 5rem auto 0 auto;
+  display: flex;
+  justify-content: center;
+  gap: 2.5rem;
+  flex-wrap: wrap;
+}
+
+.about-us-services-block > div {
+  flex: 1;
+  min-width: 260px;
+}
+
+/* Diagnóstico */
+.diagnostic-block {
+  padding: 80px 20px;
+  max-width: 50%;
+  margin: 0 auto;
+}
+
+.diagnostic-sub-block {
+  margin: 3rem auto 0 auto;
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 5rem;
+}
+
+/* FAQ y contacto */
+
+.faq {
+  background-color: white;
+}
+
+.faq-block {
+  padding-left: min(6.5rem, 8vw);
+  padding-right: min(6.5rem, 8vw);
+  background-color: white;
+}
+
+.contact-block {
+  padding-left: min(6.5rem, 8vw);
+  padding-right: min(6.5rem, 8vw);
+  padding-bottom: min(4.5rem, 6vw);
+}
+
+/* Footer */
+.footer-block {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  vertical-align: middle;
+}
