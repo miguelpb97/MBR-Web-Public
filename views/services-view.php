@@ -52,7 +52,7 @@
 
     <main>
         <div class="container-services">
-            <h1 class="text-align-center heading-text model-header">Modelos disponibles(En Progreso....)</h1>
+            <h1 class="text-align-center heading-text model-header">Modelos disponibles (En progreso...)</h1>
             <div class="container-models">
                 <?php foreach ($MODELOS as $id => $modelo): ?>
                     <div class="model-block">
@@ -68,17 +68,9 @@
     <footer>
         <div class="footer-block">
             <div>
-                <p class="text-align-center">
+                <span class="text-align-center">
                     MB Retrofit Almería © 2025. Todos los derechos reservados.
-                </p>
-            </div>
-            <div>
-                <p class="text-align-center">
-                    Made by MAPB
-                    <a id="link_github" href="https://github.com/miguelpb97">
-                        <img src="./img/github-mark.png" alt="GitHub Icon" width="20" height="20" />
-                    </a>
-                </p>
+                </span>
             </div>
         </div>
     </footer>

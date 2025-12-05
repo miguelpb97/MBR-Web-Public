@@ -58,7 +58,8 @@
     <main>
         <div class="container-services">
             <h1 class="text-align-center heading-text model-header">Servicios para <?= $modelo['nombre'] ?> -
-                <?= $anio ?></h1>
+                <?= $anio ?>
+            </h1>
             <div class="service-list-container">
                 <?php foreach ($servicios as $serv): ?>
                     <div class="service-block">
@@ -75,17 +76,9 @@
     <footer>
         <div class="footer-block">
             <div>
-                <p class="text-align-center">
+                <span class="text-align-center">
                     MB Retrofit Almería © 2025. Todos los derechos reservados.
-                </p>
-            </div>
-            <div>
-                <p class="text-align-center">
-                    Made by MAPB
-                    <a id="link_github" href="https://github.com/miguelpb97">
-                        <img src="./img/github-mark.png" alt="GitHub Icon" width="20" height="20" />
-                    </a>
-                </p>
+                </span>
             </div>
         </div>
     </footer>

@@ -17,36 +17,32 @@
 
 <body>
   <header>
-<div class="navigation-block">
-        <div>
-          <a href="index.php">
-            <img
-              class="navigation-logo"
-              src="img/mbr_logo-sin_fondo.png"
-              alt="Logo"
-            />
-          </a>
-        </div>
-        <div>
-          <ul class="navigation">
-            <li class="navigation-item navigation-link">
-              <a class="navigation-item_content" href="index.php">
-                <span class="navigation-item_label">Inicio</span>
-              </a>
-            </li>
-            <li class="navigation-item navigation-link">
-              <a class="navigation-item_content" href="servicios.php">
-                <span class="navigation-item_label">Servicios</span>
-              </a>
-            </li>
-            <li class="navigation-item navigation-link">
-              <a class="navigation-item_content" href="contacto.php">
-                <span class="navigation-item_label bolded">Contacto</span>
-              </a>
-            </li>
-          </ul>
-        </div>
+    <div class="navigation-block">
+      <div>
+        <a href="index.php">
+          <img class="navigation-logo" src="img/mbr_logo-sin_fondo.png" alt="Logo" />
+        </a>
       </div>
+      <div>
+        <ul class="navigation">
+          <li class="navigation-item navigation-link">
+            <a class="navigation-item_content" href="index.php">
+              <span class="navigation-item_label">Inicio</span>
+            </a>
+          </li>
+          <li class="navigation-item navigation-link">
+            <a class="navigation-item_content" href="servicios.php">
+              <span class="navigation-item_label">Servicios</span>
+            </a>
+          </li>
+          <li class="navigation-item navigation-link">
+            <a class="navigation-item_content" href="contacto.php">
+              <span class="navigation-item_label bolded">Contacto</span>
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
   </header>
 
   <main>
@@ -55,7 +51,8 @@
         <h2 class="heading-text contact-hearder text-align-center">Contacto</h2>
         <p class="content-justification-center text-align-center">
           Para cualquier consulta, puedes escribirnos directamente a través
-          del siguiente formulario, por <a href="mailto:mbretrofitalmeria@gmail.com" id="link_mail_contacto">correo electrónico</a>, o por
+          del siguiente formulario, por <a href="mailto:mbretrofitalmeria@gmail.com" id="link_mail_contacto">correo
+            electrónico</a>, o por
           <a id="link_wp" href="https://api.whatsapp.com/send/?phone=34645482782">WhatsApp<img
               src="./img/whatsapp_icon.png" alt="WhatsApp Icon" width="20" height="20" /></a>
         </p>
@@ -82,17 +79,9 @@
   <footer>
     <div class="footer-block">
       <div>
-        <p class="text-align-center">
+        <span class="text-align-center">
           MB Retrofit Almería © 2025. Todos los derechos reservados.
-        </p>
-      </div>
-      <div>
-        <p class="text-align-center">
-          Made by MAPB
-          <a id="link_github" href="https://github.com/miguelpb97">
-            <img src="./img/github-mark.png" alt="GitHub Icon" width="20" height="20" />
-			</a>
-        </p>
+        </span>
       </div>
     </div>
   </footer>
