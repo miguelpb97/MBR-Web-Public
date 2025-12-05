@@ -12,7 +12,7 @@ if (isset($_GET['borrar'])) {
     if ($id > 0) {
         $repo->deleteById($id);
     }
-    header('Location: admin_consultas.php');
+    header('Location: admin_requests.php');
     exit;
 }
 
@@ -35,7 +35,7 @@ if (isset($_GET['descargar']) && $_GET['descargar'] === 'csv') {
 
 // Búsqueda + paginación
 $busqueda = isset($_GET['buscar']) ? trim($_GET['buscar']) : '';
-$pagina_actual = isset($_GET['p']) ? max(1, (int)$_GET['p']) : 1;
+$pagina_actual = isset($_GET['p']) ? max(1, (int) $_GET['p']) : 1;
 $por_pagina = RESULTADOS_POR_PAGINA;
 
 $data = $repo->buscarConsultas($busqueda, $pagina_actual, $por_pagina);
@@ -44,4 +44,4 @@ $total = $data['total'];
 $paginas = (int) ceil($total / $por_pagina);
 
 // Vista
-require_once __DIR__ . '/../../views/consultas_list.php';
+require_once __DIR__ . '/../../views/admin_requests-view.php';

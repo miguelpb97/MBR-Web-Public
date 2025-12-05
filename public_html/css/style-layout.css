@@ -4,8 +4,8 @@
 
 /* Cabecera */
 .navigation-block {
-  padding-left: 15%;
-  padding-right: 15%;
+  padding-left: 7rem;
+  padding-right: 7rem;
   display: flex;
   justify-content: space-between;
   align-items: center;

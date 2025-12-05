@@ -15,7 +15,7 @@ if ($nombre === '' || $email === '' || $mensaje === '') {
 }
 
 if ($repo->crearConsulta($nombre, $email, $telefono, $vin, $mensaje)) {
-    require_once __DIR__ . '/../../views/consulta_enviada.php';
+    require_once __DIR__ . '/../../views/request_sent-view.php';
 } else {
     echo 'Error al enviar la consulta.';
 }

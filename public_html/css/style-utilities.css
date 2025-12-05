@@ -34,3 +34,7 @@
 .vertically-aligned-center {
   align-items: center;
 }
+
+.bolded {
+  font-weight: bold;
+}

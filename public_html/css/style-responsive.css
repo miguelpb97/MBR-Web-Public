@@ -80,18 +80,24 @@
 
   /* Primera fila texto + imagen */
   .diagnostic-sub-block:nth-of-type(2) > div:first-child {
-    order: 1; /* texto */
+    order: 1;
+    /* texto */
   }
+
   .diagnostic-sub-block:nth-of-type(2) > div:last-child {
-    order: 2; /* imagen */
+    order: 2;
+    /* imagen */
   }
 
   /* Segunda fila en desktop es imagen + texto, aquí se invierte */
   .diagnostic-sub-block:nth-of-type(3) > div:first-child {
-    order: 2; /* imagen pasa abajo */
+    order: 2;
+    /* imagen pasa abajo */
   }
+
   .diagnostic-sub-block:nth-of-type(3) > div:last-child {
-    order: 1; /* texto sube arriba */
+    order: 1;
+    /* texto sube arriba */
   }
 
   /* Ajustes de texto */
@@ -101,6 +107,10 @@
 
   .heading-text-2 {
     font-size: 1.6rem;
+  }
+
+  .heading-text-3 {
+    font-size: 1.1rem;
   }
 
   .large-font-size {

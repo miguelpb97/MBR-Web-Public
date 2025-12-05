@@ -12,6 +12,20 @@
   list-style: none;
 }
 
+#titulo-principal {
+  margin-top: 2.5rem;
+  margin-bottom: 1.25rem;
+}
+
+#parrafo-principal {
+  margin-top: 1.25rem;
+}
+
+#titulo-lista-servicios {
+  margin-top: 2.5rem;
+  margin-bottom: 2.5rem;
+}
+
 .navigation-link {
   padding: 8px 12px;
   border-radius: 8px;
@@ -30,7 +44,6 @@
 /* Hero */
 .hero-section {
   text-align: center;
-  margin-bottom: 40px;
   background-color: var(--color-gray-100);
 }
 
@@ -40,8 +53,7 @@
   border-radius: 12px;
   margin-left: auto;
   margin-right: auto;
-  margin-top: 20px;
-  margin-bottom: 50px;
+  margin-bottom: 2rem;
   display: block;
 }
 
@@ -50,14 +62,14 @@
 }
 
 /* Títulos */
-.heading-text-2 {
-  font-weight: 400;
-  font-size: 1.9rem;
-}
-
 .heading-text {
   font-weight: 400;
   font-size: 2.45rem;
+}
+
+.heading-text-2 {
+  font-weight: 400;
+  font-size: 1.9rem;
 }
 
 /* Botones */
@@ -66,7 +78,6 @@
   background-color: var(--color-black);
   border-radius: 12px;
   padding: 12px 24px;
-  margin-top: 20px;
   color: var(--color-white);
   display: inline-block;
 }
@@ -75,14 +86,53 @@
   text-align: center;
 }
 
-.block-button-contact {
+#boton_contacto.block-buttons {
+  padding-top: 3rem;
+}
+
+#boton_lista_servicios.block-buttons {
+  padding-top: 3rem;
+}
+
+#boton_sobre_nosotros.block-buttons {
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
+}
+
+.block-button-know-more {
+  margin-top: 5rem;
+  display: flex;
   justify-content: center;
-  background-color: var(--color-black);
-  border-radius: 12px;
-  padding: 12px 24px;
-  margin-top: 50px;
-  color: var(--color-white);
-  display: inline-block;
+}
+
+.round-btn {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  border: none;
+  background: var(--color-black);
+  color: white;
+  font-size: 24px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+.round-btn:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 12px var(--color-gray-950);
+}
+
+.round-btn:active {
+  transform: translateY(0);
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.2);
+}
+
+.block-buttons-list {
+  text-align: center;
 }
 
 /* Asterisco decorativo */
