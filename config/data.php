@@ -1,11 +1,11 @@
 <?php
 
-/*function cargarModelos() {
+function cargarModelos() {
     $json = file_get_contents(__DIR__ . "/services.json");
     return json_decode($json, true);
-}*/
+}
 
-
+/* BBDD
 require_once __DIR__ . '/config.php';
 require_once __DIR__ . '/db.php';
 
@@ -100,3 +100,4 @@ function cargarModelos(): array
 
     return $resultado;
 }
+*/

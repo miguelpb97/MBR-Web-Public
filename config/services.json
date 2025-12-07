@@ -1,0 +1,233 @@
+{
+  "Clase A": {
+    "nombre": "Clase A",
+    "imagen": "W176FL.jpg",
+    "anios": {
+      "W176 Pre-facelift": {
+        "imagen": "W176PF.jpg",
+        "servicios": [
+          {
+            "titulo": "Desactivar Start/Stop",
+            "descripcion": "Sistema Start/Stop por defecto a OFF o Last Mode, depende del tipo de motor",
+            "precio": 75
+          },
+          {
+            "titulo": "Alarma EDW",
+            "descripcion": "Activamos alarma perimetral EDW.",
+            "precio": 50
+          },
+          {
+            "titulo": "Visualizar presión neumáticos de kPa a bar",
+            "descripcion": "",
+            "precio": 35
+          },
+          {
+            "titulo": "Pitido al desbloquear el vehiculo",
+            "descripcion": "",
+            "precio": 35
+          },
+          {
+            "titulo": "Sonido de parktronic en el rango amarillo",
+            "descripcion": "",
+            "precio": 35
+          },
+          {
+            "titulo": "Intermitentes 3 a 6 pulsaciones",
+            "descripcion": "Al usar la función rápida del intermitente, en vez de 3 pulsaciones, hará 6.",
+            "precio": 35
+          },
+          {
+            "titulo": "Menú AMG",
+            "descripcion": "Activamos el menú AMG en el cuadro de instrumentos",
+            "precio": 100
+          },
+          {
+            "titulo": "Desactivar aviso acustico del cinturón de seguridad",
+            "descripcion": "",
+            "precio": 35
+          },
+          {
+            "titulo": "Mostrar autonomía total de km del vehículo",
+            "descripcion": "",
+            "precio": 35
+          },
+          {
+            "titulo": "Test de agujas al dar contacto",
+            "descripcion": "",
+            "precio": 35
+          },
+          {
+            "titulo": "Aviso tapa combustible abierta",
+            "descripcion": "",
+            "precio": 35
+          },
+          {
+            "titulo": "Aireadores con luces ambiente",
+            "descripcion": "Retrofit de airedores estilo w177 con luces ambiente personalizables desde una App.",
+            "precio": 250
+          },
+          {
+            "titulo": "Limpiparabrisas automático",
+            "descripcion": "Requiere cambio de sensor, incluido en el precio.",
+            "precio": 250
+          },
+          {
+            "titulo": "Deslimitar velocidad máxima (No AMG)",
+            "descripcion": "Eliminamos la limitación electrónica de velocidad máxima de su vehículo.",
+            "precio": 100
+          },
+          {
+            "titulo": "Deslimitar velocidad máxima (AMG)",
+            "descripcion": "Eliminamos la limitación electrónica de velocidad máxima de su vehículo de 250km/h.",
+            "precio": 150
+          },
+          {
+            "titulo": "Emotion Start (AMG)",
+            "descripcion": "Eliminamos la limitación electrónica de velocidad máxima de su vehículo de 250km/h.",
+            "precio": 150
+          },
+          {
+            "titulo": "Comprobar kilometraje real",
+            "descripcion": "¿Dudas sobre si el kilometraje de su vehículo ha sido manipulado? Te ayudamos a descubrirlo.",
+            "precio": 50
+          },
+          {
+            "titulo": "Diagnostico básico",
+            "descripcion": "Lectura y/o borrado de fallos.",
+            "precio": 40
+          },
+          {
+            "titulo": "Diagnostico avanzado",
+            "descripcion": "Lectura y/o borrado de fallos, valores reales, test de componentes, etc..",
+            "precio": 75
+          },
+          {
+            "titulo": "Ayuda con retrofit",
+            "descripcion": "Te ayudamos con cualquier retrofit que requiera SCN coding. El precio puede variar en función de la dificultad del mismo.",
+            "precio": 50
+          }
+        ]
+      },
+      "W176 Facelift": {
+        "imagen": "W176FL.jpg",
+        "servicios": [
+          {
+            "titulo": "Desactivar Start/Stop",
+            "descripcion": "Sistema Start/Stop por defecto a OFF o Last Mode, depende del tipo de motor",
+            "precio": 75
+          },
+          {
+            "titulo": "Alarma EDW",
+            "descripcion": "Activamos alarma perimetral EDW.",
+            "precio": 50
+          },
+          {
+            "titulo": "Activación de Apple CarPlay/Android Auto",
+            "descripcion": "Activamos dicha función si tu unidad es compatible.",
+            "precio": 50
+          },
+          {
+            "titulo": "Visualizar presión neumáticos de kPa a bar",
+            "descripcion": "",
+            "precio": 35
+          },
+          {
+            "titulo": "Pitido al desbloquear el vehiculo",
+            "descripcion": "",
+            "precio": 35
+          },
+          {
+            "titulo": "Sonido de parktronic en el rango amarillo",
+            "descripcion": "",
+            "precio": 35
+          },
+          {
+            "titulo": "Intermitentes 3 a 6 pulsaciones",
+            "descripcion": "Al usar la función rápida del intermitente, en vez de 3 pulsaciones, hará 6.",
+            "precio": 35
+          },
+          {
+            "titulo": "Alargar tiempo luces de bienvenida",
+            "descripcion": "",
+            "precio": 35
+          },
+          {
+            "titulo": "Menú AMG",
+            "descripcion": "Activamos el menú AMG en el cuadro de instrumentos",
+            "precio": 100
+          },
+          {
+            "titulo": "Desactivar aviso acustico del cinturón de seguridad",
+            "descripcion": "",
+            "precio": 35
+          },
+          {
+            "titulo": "Mostrar autonomía total de km del vehículo",
+            "descripcion": "",
+            "precio": 35
+          },
+          {
+            "titulo": "Test de agujas al dar contacto",
+            "descripcion": "",
+            "precio": 35
+          },
+          {
+            "titulo": "Aviso tapa combustible abierta",
+            "descripcion": "",
+            "precio": 35
+          },
+          {
+            "titulo": "Activar luces ambiente en radio y unidad SAM",
+            "descripcion": "",
+            "precio": 35
+          },
+          {
+            "titulo": "Aireadores con luces ambiente",
+            "descripcion": "Retrofit de airedores estilo w177 con luces ambiente personalizables desde una App.",
+            "precio": 250
+          },
+          {
+            "titulo": "Limpiparabrisas automático",
+            "descripcion": "Requiere cambio de sensor, incluido en el precio.",
+            "precio": 250
+          },
+          {
+            "titulo": "Deslimitar velocidad máxima (No AMG)",
+            "descripcion": "Eliminamos la limitación electrónica de velocidad máxima de su vehículo.",
+            "precio": 100
+          },
+          {
+            "titulo": "Deslimitar velocidad máxima (AMG)",
+            "descripcion": "Eliminamos la limitación electrónica de velocidad máxima de su vehículo de 250km/h.",
+            "precio": 150
+          },
+          {
+            "titulo": "Emotion Start (AMG)",
+            "descripcion": "Eliminamos la limitación electrónica de velocidad máxima de su vehículo de 250km/h.",
+            "precio": 150
+          },
+          {
+            "titulo": "Comprobar kilometraje real",
+            "descripcion": "¿Dudas sobre si el kilometraje de su vehículo ha sido manipulado? Te ayudamos a descubrirlo.",
+            "precio": 50
+          },
+          {
+            "titulo": "Diagnostico básico",
+            "descripcion": "Lectura y/o borrado de fallos.",
+            "precio": 40
+          },
+          {
+            "titulo": "Diagnostico avanzado",
+            "descripcion": "Lectura y/o borrado de fallos, valores reales, test de componentes, etc..",
+            "precio": 75
+          },
+          {
+            "titulo": "Ayuda con retrofit",
+            "descripcion": "Te ayudamos con cualquier retrofit que requiera SCN coding. El precio puede variar en función de la dificultad del mismo.",
+            "precio": 50
+          }
+        ]
+      }
+    }
+  }
+}
