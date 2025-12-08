@@ -51,7 +51,7 @@
         <h2 class="heading-text contact-hearder text-align-center">Contacto</h2>
         <p class="content-justification-center text-align-center">
           Para cualquier consulta, puedes escribirnos directamente a través
-          del siguiente formulario, por <a href="mailto:mbretrofitalmeria@gmail.com" id="link_mail_contacto">correo
+          del siguiente formulario, por <a class="bolded" href="mailto:mbretrofitalmeria@gmail.com" id="link_mail_contacto">correo
             electrónico</a>, o por
           <a id="link_wp" href="https://api.whatsapp.com/send/?phone=34645482782">WhatsApp<img
               src="./img/whatsapp_icon.png" alt="WhatsApp Icon" width="20" height="20" /></a>

@@ -52,7 +52,7 @@
 
     <main>
         <div class="container-services">
-            <h1 class="text-align-center heading-text model-header">Modelos disponibles (En progreso...)</h1>
+            <h1 class="text-align-center heading-text model-header">Modelos disponibles</h1>
             <div class="container-models">
                 <?php foreach ($MODELOS as $id => $modelo): ?>
                     <div class="model-block">
@@ -62,6 +62,9 @@
                     </div>
                 <?php endforeach; ?>
             </div>
+        </div>
+        <div id="models-advice-block">
+            <p class="text-align-center">* Todos los modelos que aparecen pueden presentar errores en su descripción, falta de servicios y/o modelos, precios equívocos. Por favor téngalo en cuenta, para cualquier duda <a id="link_mail_contacto" class="bolded" href="contacto.php">contactenos</a>.</p>
         </div>
     </main>
 

@@ -1,8 +1,8 @@
 .container-services {
   padding-top: 2rem;
   padding-bottom: 2rem;
-  padding-left: 10rem;
-  padding-right: 10rem;
+  padding-left: 4rem;
+  padding-right: 4rem;
 }
 
 .container-models,
@@ -68,4 +68,10 @@
 
 .service-block-description {
   font-weight: 400;
+}
+
+#models-advice-block {
+  margin-top: 2rem;
+  margin-bottom: 4rem;
+  font-weight: 350;
 }

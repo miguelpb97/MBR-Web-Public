@@ -143,10 +143,10 @@
 
       <div class="diagnostic-block">
         <div class="is-vertical content-justification-center">
-          <h2 class="style-asterisk heading-text text-align-center" id="diagnostic_block">
+          <h2 class="style-asterisk heading-text text-align-center">
             Diagnóstico avanzado
           </h2>
-          <p class="text-align-center">
+          <p class="text-align-center" id="diagnostic_block">
             Disponemos de los software oficial de Mercedes-Benz para
             diagnosis, SCN coding, entre otros.
           </p>
@@ -194,10 +194,10 @@
             </ul>
           </div>
         </div>
-        <div class="block-buttons content-justification-center" id="boton_lista_servicios">
-          <div class="block-button">
-            <a href="servicios.php">Lista de servicios</a>
-          </div>
+        <div class="block-button-know-more text-align-center">
+          <button class="round-btn" onclick="window.location.href='#faq'">
+            &#8595;
+          </button>
         </div>
       </div>
 
@@ -272,12 +272,18 @@
               ofrecer ninguna garantía.
             </div>
           </div>
-
+        <div class="buttons-container">
+          <div class="block-buttons content-justification-center" id="boton_servicios">
+            <div class="block-button">
+              <a href="./servicios.php">Servicios</a>
+            </div>
+          </div>
           <div class="block-buttons content-justification-center" id="boton_contacto">
             <div class="block-button">
               <a href="./contacto.php">Contactar con nosotros</a>
             </div>
           </div>
+        </div>
         </section>
       </div>
     </div>
