@@ -1,7 +1,7 @@
 {
   "Clase A": {
     "nombre": "Clase A",
-    "imagen": "W176FL.jpg",
+    "imagen": "W177FL.jpg",
     "anios": {
       "W176 Pre-facelift": {
         "imagen": "W176PF.jpg",
@@ -22,7 +22,7 @@
             "precio": 35
           },
           {
-            "titulo": "Pitido al desbloquear el vehiculo",
+            "titulo": "Pitido al bloquear el vehiculo",
             "descripcion": "",
             "precio": 35
           },
@@ -62,7 +62,7 @@
             "precio": 250
           },
           {
-            "titulo": "Limpiparabrisas automático",
+            "titulo": "Limpiaparabrisas automático",
             "descripcion": "Requiere cambio de sensor, incluido en el precio.",
             "precio": 275
           },
@@ -127,7 +127,7 @@
             "precio": 35
           },
           {
-            "titulo": "Pitido al desbloquear el vehiculo",
+            "titulo": "Pitido al bloquear el vehiculo",
             "descripcion": "",
             "precio": 35
           },
@@ -182,9 +182,189 @@
             "precio": 300
           },
           {
-            "titulo": "Limpiparabrisas automático",
+            "titulo": "Limpiaparabrisas automático",
             "descripcion": "Requiere cambio de sensor, incluido en el precio.",
             "precio": 275
+          },
+          {
+            "titulo": "Deslimitar velocidad máxima (No AMG)",
+            "descripcion": "Eliminamos la limitación electrónica de velocidad máxima de su vehículo.",
+            "precio": 100
+          },
+          {
+            "titulo": "Deslimitar velocidad máxima (AMG)",
+            "descripcion": "Eliminamos la limitación electrónica de velocidad máxima de su vehículo de 250km/h.",
+            "precio": 150
+          },
+          {
+            "titulo": "Emotion Start (AMG)",
+            "descripcion": "Eliminamos la limitación electrónica de velocidad máxima de su vehículo de 250km/h.",
+            "precio": 150
+          },
+          {
+            "titulo": "Comprobar kilometraje real",
+            "descripcion": "¿Dudas sobre si el kilometraje de su vehículo ha sido manipulado? Te ayudamos a descubrirlo.",
+            "precio": 50
+          },
+          {
+            "titulo": "Diagnostico básico",
+            "descripcion": "Lectura y/o borrado de fallos.",
+            "precio": 40
+          },
+          {
+            "titulo": "Diagnostico avanzado",
+            "descripcion": "Lectura y/o borrado de fallos, valores reales, test de componentes, etc..",
+            "precio": 75
+          },
+          {
+            "titulo": "Ayuda con retrofit",
+            "descripcion": "Te ayudamos con cualquier retrofit que requiera SCN coding. El precio puede variar en función de la dificultad del mismo.",
+            "precio": 50
+          }
+        ]
+      },
+      "W177 Pre-facelift": {
+        "imagen": "W177PF.jpg",
+        "servicios": [
+          {
+            "titulo": "Desactivar Start/Stop",
+            "descripcion": "Sistema Start/Stop por defecto a OFF o Last Mode, depende del tipo de motor",
+            "precio": 50
+          },
+          {
+            "titulo": "Alarma EDW",
+            "descripcion": "Activamos alarma perimetral EDW.",
+            "precio": 35
+          },
+          {
+            "titulo": "Visualizar presión neumáticos de kPa a bar",
+            "descripcion": "",
+            "precio": 35
+          },
+          {
+            "titulo": "Luces cortas al abrir el vehiculo",
+            "descripcion": "",
+            "precio": 35
+          },
+          {
+            "titulo": "Realidad aumentada permanente",
+            "descripcion": "",
+            "precio": 35
+          },
+          {
+            "titulo": "Cambio de modo de conducción al aranque",
+            "descripcion": "",
+            "precio": 35
+          },
+          {
+            "titulo": "Intermitentes 3 a 6 pulsaciones",
+            "descripcion": "Al usar la función rápida del intermitente, en vez de 3 pulsaciones, hará 6.",
+            "precio": 35
+          },
+          {
+            "titulo": "Desactivar aviso acustico del cinturón de seguridad",
+            "descripcion": "",
+            "precio": 35
+          },
+          {
+            "titulo": "Mostrar autonomía total de km del vehículo",
+            "descripcion": "",
+            "precio": 35
+          },
+          {
+            "titulo": "Aviso tapa combustible abierta",
+            "descripcion": "",
+            "precio": 35
+          },
+          {
+            "titulo": "Deslimitar velocidad máxima (No AMG)",
+            "descripcion": "Eliminamos la limitación electrónica de velocidad máxima de su vehículo.",
+            "precio": 100
+          },
+          {
+            "titulo": "Deslimitar velocidad máxima (AMG)",
+            "descripcion": "Eliminamos la limitación electrónica de velocidad máxima de su vehículo de 250km/h.",
+            "precio": 150
+          },
+          {
+            "titulo": "Emotion Start (AMG)",
+            "descripcion": "Eliminamos la limitación electrónica de velocidad máxima de su vehículo de 250km/h.",
+            "precio": 150
+          },
+          {
+            "titulo": "Comprobar kilometraje real",
+            "descripcion": "¿Dudas sobre si el kilometraje de su vehículo ha sido manipulado? Te ayudamos a descubrirlo.",
+            "precio": 50
+          },
+          {
+            "titulo": "Diagnostico básico",
+            "descripcion": "Lectura y/o borrado de fallos.",
+            "precio": 40
+          },
+          {
+            "titulo": "Diagnostico avanzado",
+            "descripcion": "Lectura y/o borrado de fallos, valores reales, test de componentes, etc..",
+            "precio": 75
+          },
+          {
+            "titulo": "Ayuda con retrofit",
+            "descripcion": "Te ayudamos con cualquier retrofit que requiera SCN coding. El precio puede variar en función de la dificultad del mismo.",
+            "precio": 50
+          }
+        ]
+      },      
+      "W177 Facelift": {
+        "imagen": "W177FL.jpg",
+        "servicios": [
+          {
+            "titulo": "Desactivar Start/Stop",
+            "descripcion": "Sistema Start/Stop por defecto a OFF o Last Mode, depende del tipo de motor",
+            "precio": 50
+          },
+          {
+            "titulo": "Alarma EDW",
+            "descripcion": "Activamos alarma perimetral EDW.",
+            "precio": 35
+          },
+          {
+            "titulo": "Visualizar presión neumáticos de kPa a bar",
+            "descripcion": "",
+            "precio": 35
+          },
+          {
+            "titulo": "Luces cortas al abrir el vehiculo",
+            "descripcion": "",
+            "precio": 35
+          },
+          {
+            "titulo": "Realidad aumentada permanente",
+            "descripcion": "",
+            "precio": 35
+          },
+          {
+            "titulo": "Cambio de modo de conducción al aranque",
+            "descripcion": "",
+            "precio": 35
+          },
+          {
+            "titulo": "Intermitentes 3 a 6 pulsaciones",
+            "descripcion": "Al usar la función rápida del intermitente, en vez de 3 pulsaciones, hará 6.",
+            "precio": 35
+          },
+          {
+            "titulo": "Desactivar aviso acustico del cinturón de seguridad",
+            "descripcion": "",
+            "precio": 35
+          },
+          {
+            "titulo": "Mostrar autonomía total de km del vehículo",
+            "descripcion": "",
+            "precio": 35
+          },
+          {
+            "titulo": "Aviso tapa combustible abierta",
+            "descripcion": "",
+            "precio": 35
           },
           {
             "titulo": "Deslimitar velocidad máxima (No AMG)",
@@ -227,7 +407,7 @@
   },
   "Clase B": {
     "nombre": "Clase B",
-    "imagen": "W246FL.jpg",
+    "imagen": "W247PF.jpg",
     "anios": {
       "W246 Pre-facelift": {
         "imagen": "W246PF.jpg",
@@ -248,7 +428,7 @@
             "precio": 35
           },
           {
-            "titulo": "Pitido al desbloquear el vehiculo",
+            "titulo": "Pitido al bloquear el vehiculo",
             "descripcion": "",
             "precio": 35
           },
@@ -283,7 +463,7 @@
             "precio": 35
           },
           {
-            "titulo": "Limpiparabrisas automático",
+            "titulo": "Limpiaparabrisas automático",
             "descripcion": "Requiere cambio de sensor, incluido en el precio.",
             "precio": 275
           },
@@ -314,7 +494,7 @@
           }
         ]
       },
-      "W256 Facelift": {
+      "W246 Facelift": {
         "imagen": "W246FL.jpg",
         "servicios": [
           {
@@ -338,7 +518,7 @@
             "precio": 35
           },
           {
-            "titulo": "Pitido al desbloquear el vehiculo",
+            "titulo": "Pitido al bloquear el vehiculo",
             "descripcion": "",
             "precio": 35
           },
@@ -378,7 +558,7 @@
             "precio": 35
           },
           {
-            "titulo": "Limpiparabrisas automático",
+            "titulo": "Limpiaparabrisas automático",
             "descripcion": "Requiere cambio de sensor, incluido en el precio.",
             "precio": 275
           },
@@ -386,6 +566,96 @@
             "titulo": "Deslimitar velocidad máxima (No AMG)",
             "descripcion": "Eliminamos la limitación electrónica de velocidad máxima de su vehículo.",
             "precio": 100
+          },
+          {
+            "titulo": "Comprobar kilometraje real",
+            "descripcion": "¿Dudas sobre si el kilometraje de su vehículo ha sido manipulado? Te ayudamos a descubrirlo.",
+            "precio": 50
+          },
+          {
+            "titulo": "Diagnostico básico",
+            "descripcion": "Lectura y/o borrado de fallos.",
+            "precio": 40
+          },
+          {
+            "titulo": "Diagnostico avanzado",
+            "descripcion": "Lectura y/o borrado de fallos, valores reales, test de componentes, etc..",
+            "precio": 75
+          },
+          {
+            "titulo": "Ayuda con retrofit",
+            "descripcion": "Te ayudamos con cualquier retrofit que requiera SCN coding. El precio puede variar en función de la dificultad del mismo.",
+            "precio": 50
+          }
+        ]
+      },
+      "W247 Pre-facelift": {
+        "imagen": "W247PF.jpg",
+        "servicios": [
+          {
+            "titulo": "Desactivar Start/Stop",
+            "descripcion": "Sistema Start/Stop por defecto a OFF o Last Mode, depende del tipo de motor",
+            "precio": 50
+          },
+          {
+            "titulo": "Alarma EDW",
+            "descripcion": "Activamos alarma perimetral EDW.",
+            "precio": 35
+          },
+          {
+            "titulo": "Visualizar presión neumáticos de kPa a bar",
+            "descripcion": "",
+            "precio": 35
+          },
+          {
+            "titulo": "Luces cortas al abrir el vehiculo",
+            "descripcion": "",
+            "precio": 35
+          },
+          {
+            "titulo": "Realidad aumentada permanente",
+            "descripcion": "",
+            "precio": 35
+          },
+          {
+            "titulo": "Cambio de modo de conducción al aranque",
+            "descripcion": "",
+            "precio": 35
+          },
+          {
+            "titulo": "Intermitentes 3 a 6 pulsaciones",
+            "descripcion": "Al usar la función rápida del intermitente, en vez de 3 pulsaciones, hará 6.",
+            "precio": 35
+          },
+          {
+            "titulo": "Desactivar aviso acustico del cinturón de seguridad",
+            "descripcion": "",
+            "precio": 35
+          },
+          {
+            "titulo": "Mostrar autonomía total de km del vehículo",
+            "descripcion": "",
+            "precio": 35
+          },
+          {
+            "titulo": "Aviso tapa combustible abierta",
+            "descripcion": "",
+            "precio": 35
+          },
+          {
+            "titulo": "Deslimitar velocidad máxima (No AMG)",
+            "descripcion": "Eliminamos la limitación electrónica de velocidad máxima de su vehículo.",
+            "precio": 100
+          },
+          {
+            "titulo": "Deslimitar velocidad máxima (AMG)",
+            "descripcion": "Eliminamos la limitación electrónica de velocidad máxima de su vehículo de 250km/h.",
+            "precio": 150
+          },
+          {
+            "titulo": "Emotion Start (AMG)",
+            "descripcion": "Eliminamos la limitación electrónica de velocidad máxima de su vehículo de 250km/h.",
+            "precio": 150
           },
           {
             "titulo": "Comprobar kilometraje real",
@@ -659,9 +929,9 @@
   },
   "Clase CLA": {
     "nombre": "Clase CLA",
-    "imagen": "C117FL.jpg",
+    "imagen": "C118PF.jpg",
     "anios": {
-      "C117/X117/W117 Pre-facelift": {
+      "C117/X117 Pre-facelift": {
         "imagen": "C117PF.jpg",
         "servicios": [
           {
@@ -680,7 +950,7 @@
             "precio": 35
           },
           {
-            "titulo": "Pitido al desbloquear el vehiculo",
+            "titulo": "Pitido al bloquear el vehiculo",
             "descripcion": "",
             "precio": 35
           },
@@ -720,7 +990,7 @@
             "precio": 250
           },
           {
-            "titulo": "Limpiparabrisas automático",
+            "titulo": "Limpiaparabrisas automático",
             "descripcion": "Requiere cambio de sensor, incluido en el precio.",
             "precio": 275
           },
@@ -761,7 +1031,7 @@
           }
         ]
       },
-      "C117/X117/W117 Facelift": {
+      "C117/X117 Facelift": {
         "imagen": "C117FL.jpg",
         "servicios": [
           {
@@ -785,7 +1055,7 @@
             "precio": 35
           },
           {
-            "titulo": "Pitido al desbloquear el vehiculo",
+            "titulo": "Pitido al bloquear el vehiculo",
             "descripcion": "",
             "precio": 35
           },
@@ -840,9 +1110,99 @@
             "precio": 300
           },
           {
-            "titulo": "Limpiparabrisas automático",
+            "titulo": "Limpiaparabrisas automático",
             "descripcion": "Requiere cambio de sensor, incluido en el precio.",
             "precio": 275
+          },
+          {
+            "titulo": "Deslimitar velocidad máxima (No AMG)",
+            "descripcion": "Eliminamos la limitación electrónica de velocidad máxima de su vehículo.",
+            "precio": 100
+          },
+          {
+            "titulo": "Deslimitar velocidad máxima (AMG)",
+            "descripcion": "Eliminamos la limitación electrónica de velocidad máxima de su vehículo de 250km/h.",
+            "precio": 150
+          },
+          {
+            "titulo": "Emotion Start (AMG)",
+            "descripcion": "Eliminamos la limitación electrónica de velocidad máxima de su vehículo de 250km/h.",
+            "precio": 150
+          },
+          {
+            "titulo": "Comprobar kilometraje real",
+            "descripcion": "¿Dudas sobre si el kilometraje de su vehículo ha sido manipulado? Te ayudamos a descubrirlo.",
+            "precio": 50
+          },
+          {
+            "titulo": "Diagnostico básico",
+            "descripcion": "Lectura y/o borrado de fallos.",
+            "precio": 40
+          },
+          {
+            "titulo": "Diagnostico avanzado",
+            "descripcion": "Lectura y/o borrado de fallos, valores reales, test de componentes, etc..",
+            "precio": 75
+          },
+          {
+            "titulo": "Ayuda con retrofit",
+            "descripcion": "Te ayudamos con cualquier retrofit que requiera SCN coding. El precio puede variar en función de la dificultad del mismo.",
+            "precio": 50
+          }
+        ]
+      },
+      "C118/X118 Pre-facelift": {
+        "imagen": "C118PF.jpg",
+        "servicios": [
+          {
+            "titulo": "Desactivar Start/Stop",
+            "descripcion": "Sistema Start/Stop por defecto a OFF o Last Mode, depende del tipo de motor",
+            "precio": 50
+          },
+          {
+            "titulo": "Alarma EDW",
+            "descripcion": "Activamos alarma perimetral EDW.",
+            "precio": 35
+          },
+          {
+            "titulo": "Visualizar presión neumáticos de kPa a bar",
+            "descripcion": "",
+            "precio": 35
+          },
+          {
+            "titulo": "Luces cortas al abrir el vehiculo",
+            "descripcion": "",
+            "precio": 35
+          },
+          {
+            "titulo": "Realidad aumentada permanente",
+            "descripcion": "",
+            "precio": 35
+          },
+          {
+            "titulo": "Cambio de modo de conducción al aranque",
+            "descripcion": "",
+            "precio": 35
+          },
+          {
+            "titulo": "Intermitentes 3 a 6 pulsaciones",
+            "descripcion": "Al usar la función rápida del intermitente, en vez de 3 pulsaciones, hará 6.",
+            "precio": 35
+          },
+          {
+            "titulo": "Desactivar aviso acustico del cinturón de seguridad",
+            "descripcion": "",
+            "precio": 35
+          },
+          {
+            "titulo": "Mostrar autonomía total de km del vehículo",
+            "descripcion": "",
+            "precio": 35
+          },
+          {
+            "titulo": "Aviso tapa combustible abierta",
+            "descripcion": "",
+            "precio": 35
           },
           {
             "titulo": "Deslimitar velocidad máxima (No AMG)",
@@ -982,7 +1342,7 @@
             "precio": 35
           },
           {
-            "titulo": "Pitido al desbloquear el vehiculo",
+            "titulo": "Pitido al bloquear el vehiculo",
             "descripcion": "",
             "precio": 35
           },
@@ -1022,7 +1382,7 @@
             "precio": 250
           },
           {
-            "titulo": "Limpiparabrisas automático",
+            "titulo": "Limpiaparabrisas automático",
             "descripcion": "Requiere cambio de sensor, incluido en el precio.",
             "precio": 275
           },
@@ -1509,7 +1869,7 @@
   },
   "Clase GLA": {
     "nombre": "Clase GLA",
-    "imagen": "X156FL.jpg",
+    "imagen": "X157PF.jpg",
     "anios": {
       "X156 Pre-facelift": {
         "imagen": "X156PF.jpg",
@@ -1530,7 +1890,7 @@
             "precio": 35
           },
           {
-            "titulo": "Pitido al desbloquear el vehiculo",
+            "titulo": "Pitido al bloquear el vehiculo",
             "descripcion": "",
             "precio": 35
           },
@@ -1570,7 +1930,7 @@
             "precio": 250
           },
           {
-            "titulo": "Limpiparabrisas automático",
+            "titulo": "Limpiaparabrisas automático",
             "descripcion": "Requiere cambio de sensor, incluido en el precio.",
             "precio": 275
           },
@@ -1635,7 +1995,7 @@
             "precio": 35
           },
           {
-            "titulo": "Pitido al desbloquear el vehiculo",
+            "titulo": "Pitido al bloquear el vehiculo",
             "descripcion": "",
             "precio": 35
           },
@@ -1690,9 +2050,99 @@
             "precio": 300
           },
           {
-            "titulo": "Limpiparabrisas automático",
+            "titulo": "Limpiaparabrisas automático",
             "descripcion": "Requiere cambio de sensor, incluido en el precio.",
             "precio": 275
+          },
+          {
+            "titulo": "Deslimitar velocidad máxima (No AMG)",
+            "descripcion": "Eliminamos la limitación electrónica de velocidad máxima de su vehículo.",
+            "precio": 100
+          },
+          {
+            "titulo": "Deslimitar velocidad máxima (AMG)",
+            "descripcion": "Eliminamos la limitación electrónica de velocidad máxima de su vehículo de 250km/h.",
+            "precio": 150
+          },
+          {
+            "titulo": "Emotion Start (AMG)",
+            "descripcion": "Eliminamos la limitación electrónica de velocidad máxima de su vehículo de 250km/h.",
+            "precio": 150
+          },
+          {
+            "titulo": "Comprobar kilometraje real",
+            "descripcion": "¿Dudas sobre si el kilometraje de su vehículo ha sido manipulado? Te ayudamos a descubrirlo.",
+            "precio": 50
+          },
+          {
+            "titulo": "Diagnostico básico",
+            "descripcion": "Lectura y/o borrado de fallos.",
+            "precio": 40
+          },
+          {
+            "titulo": "Diagnostico avanzado",
+            "descripcion": "Lectura y/o borrado de fallos, valores reales, test de componentes, etc..",
+            "precio": 75
+          },
+          {
+            "titulo": "Ayuda con retrofit",
+            "descripcion": "Te ayudamos con cualquier retrofit que requiera SCN coding. El precio puede variar en función de la dificultad del mismo.",
+            "precio": 50
+          }
+        ]
+      },
+      "X157 Pre-facelift": {
+        "imagen": "X157PF.jpg",
+        "servicios": [
+          {
+            "titulo": "Desactivar Start/Stop",
+            "descripcion": "Sistema Start/Stop por defecto a OFF o Last Mode, depende del tipo de motor",
+            "precio": 50
+          },
+          {
+            "titulo": "Alarma EDW",
+            "descripcion": "Activamos alarma perimetral EDW.",
+            "precio": 35
+          },
+          {
+            "titulo": "Visualizar presión neumáticos de kPa a bar",
+            "descripcion": "",
+            "precio": 35
+          },
+          {
+            "titulo": "Luces cortas al abrir el vehiculo",
+            "descripcion": "",
+            "precio": 35
+          },
+          {
+            "titulo": "Realidad aumentada permanente",
+            "descripcion": "",
+            "precio": 35
+          },
+          {
+            "titulo": "Cambio de modo de conducción al aranque",
+            "descripcion": "",
+            "precio": 35
+          },
+          {
+            "titulo": "Intermitentes 3 a 6 pulsaciones",
+            "descripcion": "Al usar la función rápida del intermitente, en vez de 3 pulsaciones, hará 6.",
+            "precio": 35
+          },
+          {
+            "titulo": "Desactivar aviso acustico del cinturón de seguridad",
+            "descripcion": "",
+            "precio": 35
+          },
+          {
+            "titulo": "Mostrar autonomía total de km del vehículo",
+            "descripcion": "",
+            "precio": 35
+          },
+          {
+            "titulo": "Aviso tapa combustible abierta",
+            "descripcion": "",
+            "precio": 35
           },
           {
             "titulo": "Deslimitar velocidad máxima (No AMG)",
@@ -1738,7 +2188,7 @@
     "imagen": "X164.jpg",
     "anios": {
       "W164/X164": {
-        "imagen": "W164.jpg",
+        "imagen": "X164.jpg",
         "servicios": [
           {
             "titulo": "Desactivar aviso acústico cinturon seguridad",
