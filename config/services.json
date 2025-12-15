@@ -57,16 +57,6 @@
             "precio": 35
           },
           {
-            "titulo": "Aireadores con luces ambiente",
-            "descripcion": "Retrofit de airedores estilo w177 con luces ambiente personalizables desde una App.",
-            "precio": 250
-          },
-          {
-            "titulo": "Limpiaparabrisas automático",
-            "descripcion": "Requiere cambio de sensor, incluido en el precio.",
-            "precio": 275
-          },
-          {
             "titulo": "Deslimitar velocidad máxima (No AMG)",
             "descripcion": "Eliminamos la limitación electrónica de velocidad máxima de su vehículo.",
             "precio": 100
@@ -170,21 +160,6 @@
             "titulo": "Activar luces ambiente en radio y unidad SAM",
             "descripcion": "",
             "precio": 35
-          },
-          {
-            "titulo": "Aireadores con luces ambiente",
-            "descripcion": "Retrofit de airedores estilo W177 con luces ambiente personalizables desde una App.",
-            "precio": 250
-          },
-          {
-            "titulo": "Aireadores con luces ambiente",
-            "descripcion": "Retrofit de airedores estilo W177 con luces ambiente personalizables desde la unidad Comand o Audio20.",
-            "precio": 300
-          },
-          {
-            "titulo": "Limpiaparabrisas automático",
-            "descripcion": "Requiere cambio de sensor, incluido en el precio.",
-            "precio": 275
           },
           {
             "titulo": "Deslimitar velocidad máxima (No AMG)",
@@ -312,7 +287,7 @@
             "precio": 50
           }
         ]
-      },      
+      },
       "W177 Facelift": {
         "imagen": "W177FL.jpg",
         "servicios": [
@@ -463,14 +438,19 @@
             "precio": 35
           },
           {
-            "titulo": "Limpiaparabrisas automático",
-            "descripcion": "Requiere cambio de sensor, incluido en el precio.",
-            "precio": 275
-          },
-          {
             "titulo": "Deslimitar velocidad máxima (No AMG)",
             "descripcion": "Eliminamos la limitación electrónica de velocidad máxima de su vehículo.",
             "precio": 100
+          },
+          {
+            "titulo": "Deslimitar velocidad máxima (AMG)",
+            "descripcion": "Eliminamos la limitación electrónica de velocidad máxima de su vehículo de 250km/h.",
+            "precio": 150
+          },
+          {
+            "titulo": "Emotion Start (AMG)",
+            "descripcion": "Eliminamos la limitación electrónica de velocidad máxima de su vehículo de 250km/h.",
+            "precio": 150
           },
           {
             "titulo": "Comprobar kilometraje real",
@@ -558,14 +538,24 @@
             "precio": 35
           },
           {
-            "titulo": "Limpiaparabrisas automático",
-            "descripcion": "Requiere cambio de sensor, incluido en el precio.",
-            "precio": 275
+            "titulo": "Activar luces ambiente en radio y unidad SAM",
+            "descripcion": "",
+            "precio": 35
           },
           {
             "titulo": "Deslimitar velocidad máxima (No AMG)",
             "descripcion": "Eliminamos la limitación electrónica de velocidad máxima de su vehículo.",
             "precio": 100
+          },
+          {
+            "titulo": "Deslimitar velocidad máxima (AMG)",
+            "descripcion": "Eliminamos la limitación electrónica de velocidad máxima de su vehículo de 250km/h.",
+            "precio": 150
+          },
+          {
+            "titulo": "Emotion Start (AMG)",
+            "descripcion": "Eliminamos la limitación electrónica de velocidad máxima de su vehículo de 250km/h.",
+            "precio": 150
           },
           {
             "titulo": "Comprobar kilometraje real",
@@ -734,7 +724,7 @@
             "precio": 35
           }
         ]
-      },    
+      },
       "W204/S204/X204": {
         "imagen": "W204.jpg",
         "servicios": [
@@ -784,7 +774,7 @@
             "precio": 35
           }
         ]
-      },      
+      },
       "W204/S204/X204 Facelift": {
         "imagen": "W204FL.jpg",
         "servicios": [
@@ -852,7 +842,7 @@
             "titulo": "Desactivar Start/Stop",
             "descripcion": "Sistema Start/Stop por defecto a OFF o Last Mode, depende del tipo de motor",
             "precio": 50
-          },         
+          },
           {
             "titulo": "Alarma EDW",
             "descripcion": "Activamos alarma perimetral EDW.",
@@ -985,16 +975,6 @@
             "precio": 35
           },
           {
-            "titulo": "Aireadores con luces ambiente",
-            "descripcion": "Retrofit de airedores estilo C118 con luces ambiente personalizables desde una App.",
-            "precio": 250
-          },
-          {
-            "titulo": "Limpiaparabrisas automático",
-            "descripcion": "Requiere cambio de sensor, incluido en el precio.",
-            "precio": 275
-          },
-          {
             "titulo": "Deslimitar velocidad máxima (No AMG)",
             "descripcion": "Eliminamos la limitación electrónica de velocidad máxima de su vehículo.",
             "precio": 100
@@ -1098,21 +1078,6 @@
             "titulo": "Activar luces ambiente en radio y unidad SAM",
             "descripcion": "",
             "precio": 35
-          },
-          {
-            "titulo": "Aireadores con luces ambiente",
-            "descripcion": "Retrofit de airedores estilo C118 con luces ambiente personalizables desde una App.",
-            "precio": 250
-          },
-          {
-            "titulo": "Aireadores con luces ambiente",
-            "descripcion": "Retrofit de airedores estilo C118 con luces ambiente personalizables desde la unidad Comand o Audio20.",
-            "precio": 300
-          },
-          {
-            "titulo": "Limpiaparabrisas automático",
-            "descripcion": "Requiere cambio de sensor, incluido en el precio.",
-            "precio": 275
           },
           {
             "titulo": "Deslimitar velocidad máxima (No AMG)",
@@ -1242,7 +1207,7 @@
         ]
       }
     }
-  }, 
+  },
   "Clase CLK": {
     "nombre": "Clase CLK",
     "imagen": "W209.jpg",
@@ -1318,7 +1283,7 @@
         ]
       }
     }
-  }, 
+  },
   "Clase CLS": {
     "nombre": "Clase CLS",
     "imagen": "W218.jpg",
@@ -1430,7 +1395,7 @@
             "titulo": "Desactivar Start/Stop",
             "descripcion": "Sistema Start/Stop por defecto a OFF o Last Mode, depende del tipo de motor",
             "precio": 50
-          },         
+          },
           {
             "titulo": "Alarma EDW",
             "descripcion": "Activamos alarma perimetral EDW.",
@@ -1603,7 +1568,7 @@
             "precio": 50
           }
         ]
-      },      
+      },
       "W212/S212/A207/C207": {
         "imagen": "W212.jpg",
         "servicios": [
@@ -1678,7 +1643,7 @@
             "precio": 50
           }
         ]
-      },      
+      },
       "W212 Facelift": {
         "imagen": "W212FL.jpg",
         "servicios": [
@@ -1701,7 +1666,7 @@
             "titulo": "Mostrar litros de combustible retantes",
             "descripcion": "",
             "precio": 35
-          },          
+          },
           {
             "titulo": "Deslimitar velocidad máxima (No AMG)",
             "descripcion": "Eliminamos la limitación electrónica de velocidad máxima de su vehículo.",
@@ -1756,7 +1721,7 @@
             "titulo": "Mostrar litros de combustible retantes",
             "descripcion": "",
             "precio": 35
-          },          
+          },
           {
             "titulo": "Deslimitar velocidad máxima (No AMG)",
             "descripcion": "Eliminamos la limitación electrónica de velocidad máxima de su vehículo.",
@@ -1925,16 +1890,6 @@
             "precio": 35
           },
           {
-            "titulo": "Aireadores con luces ambiente",
-            "descripcion": "Retrofit de airedores estilo X157 con luces ambiente personalizables desde una App.",
-            "precio": 250
-          },
-          {
-            "titulo": "Limpiaparabrisas automático",
-            "descripcion": "Requiere cambio de sensor, incluido en el precio.",
-            "precio": 275
-          },
-          {
             "titulo": "Deslimitar velocidad máxima (No AMG)",
             "descripcion": "Eliminamos la limitación electrónica de velocidad máxima de su vehículo.",
             "precio": 100
@@ -2038,21 +1993,6 @@
             "titulo": "Activar luces ambiente en radio y unidad SAM",
             "descripcion": "",
             "precio": 35
-          },
-          {
-            "titulo": "Aireadores con luces ambiente",
-            "descripcion": "Retrofit de airedores estilo X157 con luces ambiente personalizables desde una App.",
-            "precio": 250
-          },
-          {
-            "titulo": "Aireadores con luces ambiente",
-            "descripcion": "Retrofit de airedores estilo X157 con luces ambiente personalizables desde la unidad Comand o Audio20.",
-            "precio": 300
-          },
-          {
-            "titulo": "Limpiaparabrisas automático",
-            "descripcion": "Requiere cambio de sensor, incluido en el precio.",
-            "precio": 275
           },
           {
             "titulo": "Deslimitar velocidad máxima (No AMG)",
@@ -2258,7 +2198,7 @@
         ]
       }
     }
-  },  
+  },
   "Clase ML": {
     "nombre": "Clase ML",
     "imagen": "W166.jpg",
@@ -2507,7 +2447,7 @@
             "titulo": "Mostrar litros de combustible retantes",
             "descripcion": "",
             "precio": 35
-          },          
+          },
           {
             "titulo": "Deslimitar velocidad máxima (No AMG)",
             "descripcion": "Eliminamos la limitación electrónica de velocidad máxima de su vehículo.",
@@ -2843,7 +2783,7 @@
         ]
       }
     }
-  },  
+  },
   "Clase V": {
     "nombre": "Clase V",
     "imagen": "W447.jpg",
