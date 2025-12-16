@@ -1,10 +1,10 @@
 {
   "Clase A": {
     "nombre": "Clase A",
-    "imagen": "W177FL.jpg",
+    "imagen": "W177FL.png",
     "anios": {
       "W176 Pre-facelift": {
-        "imagen": "W176PF.jpg",
+        "imagen": "W176PF.png",
         "servicios": [
           {
             "titulo": "Desactivar Start/Stop",
@@ -38,11 +38,6 @@
           },
           {
             "titulo": "Desactivar aviso acustico del cinturón de seguridad",
-            "descripcion": "",
-            "precio": 35
-          },
-          {
-            "titulo": "Mostrar autonomía total de km del vehículo",
             "descripcion": "",
             "precio": 35
           },
@@ -94,7 +89,7 @@
         ]
       },
       "W176 Facelift": {
-        "imagen": "W176FL.jpg",
+        "imagen": "W176FL.png",
         "servicios": [
           {
             "titulo": "Desactivar Start/Stop",
@@ -138,11 +133,6 @@
           },
           {
             "titulo": "Desactivar aviso acustico del cinturón de seguridad",
-            "descripcion": "",
-            "precio": 35
-          },
-          {
-            "titulo": "Mostrar autonomía total de km del vehículo",
             "descripcion": "",
             "precio": 35
           },
@@ -199,7 +189,7 @@
         ]
       },
       "W177 Pre-facelift": {
-        "imagen": "W177PF.jpg",
+        "imagen": "W177PF.png",
         "servicios": [
           {
             "titulo": "Desactivar Start/Stop",
@@ -238,11 +228,6 @@
           },
           {
             "titulo": "Desactivar aviso acustico del cinturón de seguridad",
-            "descripcion": "",
-            "precio": 35
-          },
-          {
-            "titulo": "Mostrar autonomía total de km del vehículo",
             "descripcion": "",
             "precio": 35
           },
@@ -289,7 +274,7 @@
         ]
       },
       "W177 Facelift": {
-        "imagen": "W177FL.jpg",
+        "imagen": "W177FL.png",
         "servicios": [
           {
             "titulo": "Desactivar Start/Stop",
@@ -328,11 +313,6 @@
           },
           {
             "titulo": "Desactivar aviso acustico del cinturón de seguridad",
-            "descripcion": "",
-            "precio": 35
-          },
-          {
-            "titulo": "Mostrar autonomía total de km del vehículo",
             "descripcion": "",
             "precio": 35
           },
@@ -382,10 +362,10 @@
   },
   "Clase B": {
     "nombre": "Clase B",
-    "imagen": "W247PF.jpg",
+    "imagen": "W247PF.png",
     "anios": {
       "W246 Pre-facelift": {
-        "imagen": "W246PF.jpg",
+        "imagen": "W246PF.png",
         "servicios": [
           {
             "titulo": "Desactivar Start/Stop",
@@ -419,11 +399,6 @@
           },
           {
             "titulo": "Desactivar aviso acustico del cinturón de seguridad",
-            "descripcion": "",
-            "precio": 35
-          },
-          {
-            "titulo": "Mostrar autonomía total de km del vehículo",
             "descripcion": "",
             "precio": 35
           },
@@ -475,7 +450,7 @@
         ]
       },
       "W246 Facelift": {
-        "imagen": "W246FL.jpg",
+        "imagen": "W246FL.png",
         "servicios": [
           {
             "titulo": "Desactivar Start/Stop",
@@ -519,11 +494,6 @@
           },
           {
             "titulo": "Desactivar aviso acustico del cinturón de seguridad",
-            "descripcion": "",
-            "precio": 35
-          },
-          {
-            "titulo": "Mostrar autonomía total de km del vehículo",
             "descripcion": "",
             "precio": 35
           },
@@ -580,7 +550,7 @@
         ]
       },
       "W247 Pre-facelift": {
-        "imagen": "W247PF.jpg",
+        "imagen": "W247PF.png",
         "servicios": [
           {
             "titulo": "Desactivar Start/Stop",
@@ -619,11 +589,6 @@
           },
           {
             "titulo": "Desactivar aviso acustico del cinturón de seguridad",
-            "descripcion": "",
-            "precio": 35
-          },
-          {
-            "titulo": "Mostrar autonomía total de km del vehículo",
             "descripcion": "",
             "precio": 35
           },
@@ -673,10 +638,10 @@
   },
   "Clase C": {
     "nombre": "Clase C",
-    "imagen": "W205.jpg",
+    "imagen": "W205.png",
     "anios": {
       "W203/S203": {
-        "imagen": "W203.jpg",
+        "imagen": "W203.png",
         "servicios": [
           {
             "titulo": "Desactivar aviso acústico cinturon seguridad",
@@ -726,7 +691,7 @@
         ]
       },
       "W204/S204/X204": {
-        "imagen": "W204.jpg",
+        "imagen": "W204.png",
         "servicios": [
           {
             "titulo": "Desactivar Start/Stop",
@@ -776,7 +741,7 @@
         ]
       },
       "W204/S204/X204 Facelift": {
-        "imagen": "W204FL.jpg",
+        "imagen": "W204FL.png",
         "servicios": [
           {
             "titulo": "Desactivar Start/Stop",
@@ -836,7 +801,7 @@
         ]
       },
       "W205/S205/X253": {
-        "imagen": "W205.jpg",
+        "imagen": "W205.png",
         "servicios": [
           {
             "titulo": "Desactivar Start/Stop",
@@ -919,10 +884,10 @@
   },
   "Clase CLA": {
     "nombre": "Clase CLA",
-    "imagen": "C118PF.jpg",
+    "imagen": "C118PF.png",
     "anios": {
       "C117/X117 Pre-facelift": {
-        "imagen": "C117PF.jpg",
+        "imagen": "C117PF.png",
         "servicios": [
           {
             "titulo": "Desactivar Start/Stop",
@@ -956,11 +921,6 @@
           },
           {
             "titulo": "Desactivar aviso acustico del cinturón de seguridad",
-            "descripcion": "",
-            "precio": 35
-          },
-          {
-            "titulo": "Mostrar autonomía total de km del vehículo",
             "descripcion": "",
             "precio": 35
           },
@@ -1012,7 +972,7 @@
         ]
       },
       "C117/X117 Facelift": {
-        "imagen": "C117FL.jpg",
+        "imagen": "C117FL.png",
         "servicios": [
           {
             "titulo": "Desactivar Start/Stop",
@@ -1056,11 +1016,6 @@
           },
           {
             "titulo": "Desactivar aviso acustico del cinturón de seguridad",
-            "descripcion": "",
-            "precio": 35
-          },
-          {
-            "titulo": "Mostrar autonomía total de km del vehículo",
             "descripcion": "",
             "precio": 35
           },
@@ -1117,7 +1072,7 @@
         ]
       },
       "C118/X118 Pre-facelift": {
-        "imagen": "C118PF.jpg",
+        "imagen": "C118PF.png",
         "servicios": [
           {
             "titulo": "Desactivar Start/Stop",
@@ -1156,11 +1111,6 @@
           },
           {
             "titulo": "Desactivar aviso acustico del cinturón de seguridad",
-            "descripcion": "",
-            "precio": 35
-          },
-          {
-            "titulo": "Mostrar autonomía total de km del vehículo",
             "descripcion": "",
             "precio": 35
           },
@@ -1210,10 +1160,10 @@
   },
   "Clase CLK": {
     "nombre": "Clase CLK",
-    "imagen": "W209.jpg",
+    "imagen": "W209.png",
     "anios": {
       "W209": {
-        "imagen": "W209.jpg",
+        "imagen": "W209.png",
         "servicios": [
           {
             "titulo": "Desactivar aviso acústico cinturon seguridad",
@@ -1286,10 +1236,10 @@
   },
   "Clase CLS": {
     "nombre": "Clase CLS",
-    "imagen": "W218.jpg",
+    "imagen": "W218.png",
     "anios": {
       "W219/C219": {
-        "imagen": "W219.jpg",
+        "imagen": "W219.png",
         "servicios": [
           {
             "titulo": "Desactivar Start/Stop",
@@ -1389,7 +1339,7 @@
         ]
       },
       "W218/X218": {
-        "imagen": "W218.jpg",
+        "imagen": "W218.png",
         "servicios": [
           {
             "titulo": "Desactivar Start/Stop",
@@ -1497,10 +1447,10 @@
   },
   "Clase E": {
     "nombre": "Clase E",
-    "imagen": "W213.jpg",
+    "imagen": "W213.png",
     "anios": {
       "W211/S211": {
-        "imagen": "W211.jpg",
+        "imagen": "W211.png",
         "servicios": [
           {
             "titulo": "Desactivar aviso acústico cinturon seguridad",
@@ -1570,7 +1520,7 @@
         ]
       },
       "W212/S212/A207/C207": {
-        "imagen": "W212.jpg",
+        "imagen": "W212.png",
         "servicios": [
           {
             "titulo": "Desactivar Start/Stop",
@@ -1645,7 +1595,7 @@
         ]
       },
       "W212 Facelift": {
-        "imagen": "W212FL.jpg",
+        "imagen": "W212FL.png",
         "servicios": [
           {
             "titulo": "Desactivar Start/Stop",
@@ -1700,7 +1650,7 @@
         ]
       },
       "W213": {
-        "imagen": "W213.jpg",
+        "imagen": "W213.png",
         "servicios": [
           {
             "titulo": "Desactivar Start/Stop",
@@ -1758,10 +1708,10 @@
   },
   "Clase G": {
     "nombre": "Clase G",
-    "imagen": "W463.jpg",
+    "imagen": "W463.png",
     "anios": {
       "W463": {
-        "imagen": "W463.jpg",
+        "imagen": "W463.png",
         "servicios": [
           {
             "titulo": "Desactivar aviso acústico cinturon seguridad",
@@ -1834,10 +1784,10 @@
   },
   "Clase GLA": {
     "nombre": "Clase GLA",
-    "imagen": "X157PF.jpg",
+    "imagen": "X157PF.png",
     "anios": {
       "X156 Pre-facelift": {
-        "imagen": "X156PF.jpg",
+        "imagen": "X156PF.png",
         "servicios": [
           {
             "titulo": "Desactivar Start/Stop",
@@ -1871,11 +1821,6 @@
           },
           {
             "titulo": "Desactivar aviso acustico del cinturón de seguridad",
-            "descripcion": "",
-            "precio": 35
-          },
-          {
-            "titulo": "Mostrar autonomía total de km del vehículo",
             "descripcion": "",
             "precio": 35
           },
@@ -1927,7 +1872,7 @@
         ]
       },
       "X156 Facelift": {
-        "imagen": "X156FL.jpg",
+        "imagen": "X156FL.png",
         "servicios": [
           {
             "titulo": "Desactivar Start/Stop",
@@ -1971,11 +1916,6 @@
           },
           {
             "titulo": "Desactivar aviso acustico del cinturón de seguridad",
-            "descripcion": "",
-            "precio": 35
-          },
-          {
-            "titulo": "Mostrar autonomía total de km del vehículo",
             "descripcion": "",
             "precio": 35
           },
@@ -2032,7 +1972,7 @@
         ]
       },
       "X157 Pre-facelift": {
-        "imagen": "X157PF.jpg",
+        "imagen": "X157PF.png",
         "servicios": [
           {
             "titulo": "Desactivar Start/Stop",
@@ -2071,11 +2011,6 @@
           },
           {
             "titulo": "Desactivar aviso acustico del cinturón de seguridad",
-            "descripcion": "",
-            "precio": 35
-          },
-          {
-            "titulo": "Mostrar autonomía total de km del vehículo",
             "descripcion": "",
             "precio": 35
           },
@@ -2125,10 +2060,10 @@
   },
   "Clase M": {
     "nombre": "Clase M",
-    "imagen": "X164.jpg",
+    "imagen": "X164.png",
     "anios": {
       "W164/X164": {
-        "imagen": "X164.jpg",
+        "imagen": "X164.png",
         "servicios": [
           {
             "titulo": "Desactivar aviso acústico cinturon seguridad",
@@ -2201,10 +2136,10 @@
   },
   "Clase ML": {
     "nombre": "Clase ML",
-    "imagen": "W166.jpg",
+    "imagen": "W166.png",
     "anios": {
       "W166/X166": {
-        "imagen": "W166.jpg",
+        "imagen": "W166.png",
         "servicios": [
           {
             "titulo": "Desactivar aviso acústico cinturon seguridad",
@@ -2277,10 +2212,10 @@
   },
   "Clase R": {
     "nombre": "Clase R",
-    "imagen": "W251.jpg",
+    "imagen": "W251.png",
     "anios": {
       "W251": {
-        "imagen": "W251.jpg",
+        "imagen": "W251.png",
         "servicios": [
           {
             "titulo": "Desactivar aviso acústico cinturon seguridad",
@@ -2353,10 +2288,10 @@
   },
   "Clase S": {
     "nombre": "Clase S",
-    "imagen": "W222.jpg",
+    "imagen": "W222.png",
     "anios": {
       "S221/W216": {
-        "imagen": "S221.jpg",
+        "imagen": "S221.png",
         "servicios": [
           {
             "titulo": "Desactivar aviso acústico cinturon seguridad",
@@ -2426,7 +2361,7 @@
         ]
       },
       "S222/W217": {
-        "imagen": "W222.jpg",
+        "imagen": "W222.png",
         "servicios": [
           {
             "titulo": "Desactivar Start/Stop",
@@ -2484,10 +2419,10 @@
   },
   "Clase SLK": {
     "nombre": "Clase SLK",
-    "imagen": "R172.jpg",
+    "imagen": "R172.png",
     "anios": {
       "R171": {
-        "imagen": "R171.jpg",
+        "imagen": "R171.png",
         "servicios": [
           {
             "titulo": "Desactivar aviso acústico cinturon seguridad",
@@ -2557,7 +2492,7 @@
         ]
       },
       "R172": {
-        "imagen": "R172.jpg",
+        "imagen": "R172.png",
         "servicios": [
           {
             "titulo": "Desactivar Start/Stop",
@@ -2635,10 +2570,10 @@
   },
   "Clase SL": {
     "nombre": "Clase SL",
-    "imagen": "R231.jpg",
+    "imagen": "R231.png",
     "anios": {
       "R230": {
-        "imagen": "R230.jpg",
+        "imagen": "R230.png",
         "servicios": [
           {
             "titulo": "Desactivar aviso acústico cinturon seguridad",
@@ -2708,7 +2643,7 @@
         ]
       },
       "R231": {
-        "imagen": "R231.jpg",
+        "imagen": "R231.png",
         "servicios": [
           {
             "titulo": "Desactivar Start/Stop",
@@ -2786,10 +2721,10 @@
   },
   "Clase V": {
     "nombre": "Clase V",
-    "imagen": "W447.jpg",
+    "imagen": "W447.png",
     "anios": {
       "W447": {
-        "imagen": "W447.jpg",
+        "imagen": "W447.png",
         "servicios": [
           {
             "titulo": "Desactivar aviso acústico cinturon seguridad",
