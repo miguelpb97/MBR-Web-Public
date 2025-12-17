@@ -296,6 +296,11 @@
           MB Retrofit Almería © 2025. Todos los derechos reservados.
         </span>
       </div>
+      <div class="terms-and-privacy-links-block">
+        <a class="footer-link" href="terminos_condiciones.php">Términos y Condiciones</a>
+        <span class="footer-separator">|</span>
+        <a class="footer-link" href="politica_privacidad.php">Política de Privacidad</a>
+      </div>
     </div>
   </footer>
 

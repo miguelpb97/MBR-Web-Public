@@ -72,6 +72,12 @@
   font-size: 1.9rem;
 }
 
+.heading-text-3 {
+  font-weight: 400;
+  font-size: 1.4rem;
+  margin-top: 1.5rem;
+}
+
 /* Botones */
 .block-button {
   justify-content: center;
@@ -201,6 +207,11 @@ ul.style-checkmark-list li {
 .footer-block img {
   display: inline-block;
   vertical-align: middle;
+}
+
+.ul-privacy-policy {
+  margin-left: 1rem;
+  color: var(--color-black);
 }
 
 /* Formulario */

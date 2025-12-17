@@ -77,6 +77,18 @@
   padding-bottom: min(4.5rem, 6vw);
 }
 
+.terms-and-conditions-block {
+  padding-left: min(10.5rem, 8vw);
+  padding-right: min(10.5rem, 8vw);
+  padding-bottom: min(4.5rem, 6vw);
+}
+
+.privacy-policy-block {
+  padding-left: min(10.5rem, 8vw);
+  padding-right: min(10.5rem, 8vw);
+  padding-bottom: min(4.5rem, 6vw);
+}
+
 /* Footer */
 .footer-block {
   display: flex;
