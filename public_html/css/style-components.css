@@ -1,4 +1,13 @@
 /* Navegación */
+
+header {
+  position: relative;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 999;
+  background: transparent;
+}
 .navigation-logo {
   padding-top: 10px;
   width: 75px;
@@ -34,7 +43,11 @@
 }
 
 .navigation-item_content {
-  color: var(--color-black);
+  color: black;
+}
+
+.navigation-item_content_main {
+  color: white;
 }
 
 .navigation-item_label {
@@ -43,22 +56,41 @@
 
 /* Hero */
 .hero-section {
+  position: relative;
+  margin-top: -10rem;
+  min-height: 100vh;
+  background-image: url("../img/HeroCocheImg.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
   text-align: center;
-  background-color: var(--color-gray-100);
 }
 
-.hero-image {
-  width: 70%;
-  height: auto;
-  border-radius: 12px;
-  margin-left: auto;
-  margin-right: auto;
-  margin-bottom: 2rem;
-  display: block;
+/* Oscurecer imagen */
+.hero-overlay {
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.45);
+  z-index: 1;
 }
 
-.hero-section p {
-  font-size: 1rem;
+.hero-content {
+  position: relative;
+  z-index: 2;
+  max-width: 900px;
+  padding: 2rem;
+}
+
+/* Títulos hero*/
+.hero-title,
+.hero-description,
+.hero-subtitle {
+  color: white;
+  text-shadow: 0 2px 8px rgba(0, 0, 0, 0.6);
 }
 
 /* Títulos */
@@ -76,6 +108,24 @@
   font-weight: 400;
   font-size: 1.4rem;
   margin-top: 1.5rem;
+}
+
+.hero-button {
+  display: inline-block;
+  padding: 14px 36px;
+  margin-top: 2rem;
+  background-color: #0d6efd;
+  color: #fff;
+  font-weight: 600;
+  border-radius: 8px;
+  text-decoration: none;
+  letter-spacing: 0.5px;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+.hero-button:hover {
+  background-color: #0b5ed7;
+  transform: translateY(-2px);
 }
 
 /* Botones */

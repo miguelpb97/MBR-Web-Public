@@ -18,54 +18,55 @@
 </head>
 
 <body>
-  <header>
-    <div class="navigation-block">
-      <div>
-        <a href="index.php">
-          <img class="navigation-logo" src="./img/mbr_logo-sin_fondo.png" alt="Logo" />
-        </a>
-      </div>
-      <div>
-        <ul class="navigation">
-          <li class="navigation-item navigation-link">
-            <a class="navigation-item_content" href="index.php">
-              <span class="navigation-item_label bolded">Inicio</span>
-            </a>
-          </li>
-          <li class="navigation-item navigation-link">
-            <a class="navigation-item_content" href="servicios.php">
-              <span class="navigation-item_label">Servicios</span>
-            </a>
-          </li>
-          <li class="navigation-item navigation-link">
-            <a class="navigation-item_content" href="contacto.php">
-              <span class="navigation-item_label">Contacto</span>
-            </a>
-          </li>
-        </ul>
-      </div>
-    </div>
-  </header>
-
   <main>
+    <header>
+      <div class="navigation-block">
+        <div>
+          <a href="index.php">
+            <img class="navigation-logo" src="./img/mbr_logo_blanco_sin_fondo.png" alt="Logo" />
+          </a>
+        </div>
+        <div>
+          <ul class="navigation">
+            <li class="navigation-item navigation-link">
+              <a class="navigation-item_content_main" href="index.php">
+                <span class="navigation-item_label bolded">Inicio</span>
+              </a>
+            </li>
+            <li class="navigation-item navigation-link">
+              <a class="navigation-item_content_main" href="servicios.php">
+                <span class="navigation-item_label">Servicios</span>
+              </a>
+            </li>
+            <li class="navigation-item navigation-link">
+              <a class="navigation-item_content_main" href="contacto.php">
+                <span class="navigation-item_label">Contacto</span>
+              </a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </header>
     <div class="container-main">
       <div class="hero-section">
-        <h1 class="heading-text text-align-center" id="titulo-principal">
-          MB Retrofit Almería
-        </h1>
-        <p class="text-align-center" id="parrafo-principal">
-          Codificaciones SCN para Mercedes-Benz<br />
-          Optimizaciones, adaptaciones/configuraciones y activaciones para tu
-          Mercedes-Benz
-        </p>
-        <div class="block-buttons content-justification-center" id="boton_sobre_nosotros">
-          <div class="block-button">
-            <a href="#quienes_somos" class="block-button_link element-button">Sobre nosotros</a>
-          </div>
+        <div class="hero-overlay"></div>
+
+        <div class="hero-content">
+          <h1 class="hero-title">MB Retrofit Almería</h1>
+
+          <h2 class="hero-subtitle">
+            Codificaciones SCN para Mercedes-Benz
+          </h2>
+
+          <p class="hero-description">
+            Optimizaciones, adaptaciones/configuraciones <br>
+            y activaciones para tu Mercedes-Benz
+          </p>
+
+          <a href="servicios.php" class="hero-button">
+            SERVICIOS
+          </a>
         </div>
-        <figure>
-          <img class="hero-image" src="./img/hero_image.jpg" alt="Hero" />
-        </figure>
       </div>
 
       <div class="about-us-block" id="quienes_somos">
@@ -272,18 +273,11 @@
               ofrecer ninguna garantía.
             </div>
           </div>
-        <div class="buttons-container">
-          <div class="block-buttons content-justification-center" id="boton_servicios">
-            <div class="block-button">
-              <a href="./servicios.php">Servicios</a>
-            </div>
-          </div>
           <div class="block-buttons content-justification-center" id="boton_contacto">
             <div class="block-button">
               <a href="./contacto.php">Contactar con nosotros</a>
             </div>
           </div>
-        </div>
         </section>
       </div>
     </div>
