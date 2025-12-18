@@ -16,8 +16,5 @@
 /* Estilos específicos de página contacto */
 @import url("./pages/style-contact.css");
 
-/* Estilos específicos de página servicios */
-@import url("./pages/style-services.css");
-
 /* Responsive */
 @import url("./style-responsive.css");

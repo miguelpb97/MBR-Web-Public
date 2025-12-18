@@ -2,10 +2,20 @@
   margin: auto;
 }
 
-/* Cabecera */
+/* Cabecera index hero */
+.navigation-block-index {
+  padding-left: 7rem;
+  padding-right: 7rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+/* Cabecera general */
 .navigation-block {
   padding-left: 7rem;
   padding-right: 7rem;
+  padding-top: 1.2rem;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -95,4 +105,22 @@
   justify-content: space-between;
   align-items: center;
   vertical-align: middle;
+}
+
+/* Página servicios */
+.container-services {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  padding-left: 4rem;
+  padding-right: 4rem;
+}
+
+.container-models,
+.service-list-container {
+  display: flex;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 20px;
+  padding: 20px;
+  flex-wrap: wrap;
+  justify-content: center;
 }
