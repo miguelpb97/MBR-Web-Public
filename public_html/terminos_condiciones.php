@@ -1,4 +1,4 @@
 <?php
 
 // Vista
-require_once __DIR__ . '/../views/terms_conditions-view.php';
+require_once __DIR__ . '/../views/terms_conditions-view.html';
