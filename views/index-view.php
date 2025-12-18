@@ -20,7 +20,7 @@
 <body>
   <main>
     <header>
-      <div class="navigation-block">
+      <div class="navigation-block-index">
         <div>
           <a href="index.php">
             <img class="navigation-logo" src="./img/mbr_logo_blanco_sin_fondo.png" alt="Logo" />
