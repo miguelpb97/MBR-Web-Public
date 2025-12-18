@@ -5,7 +5,7 @@ Example website for vehicle coding services
 URL: https://mbretrofitalmeria.es/
 
 Index
-![Index](https://github.com/user-attachments/assets/30b52e44-18dd-4928-a6f6-3539ab741a03)
+![Index](https://github.com/user-attachments/assets/2931555d-4764-4617-8693-58a323174a2e)
 
 Servicios
 ![Servicios1](https://github.com/user-attachments/assets/aa125d9c-0e26-4d44-8ab2-3cb3e35df725)
