@@ -70,13 +70,11 @@
       No compartimos, vendemos ni alquilamos tu información personal a terceros. Solo podremos compartirla si es necesario para cumplir con la ley, resolver disputas o proteger nuestros derechos.
       <h3 class="heading-text-3">6. Acceso y Modificación de tu Información</h3>
       Puedes acceder, corregir o eliminar la información personal que nos has proporcionado en cualquier momento. Si deseas modificar tus datos o si tienes alguna duda sobre cómo manejamos tu información, puedes contactarnos a través de nuestro formulario de contacto.
-      <h3 class="heading-text-3">7. Cookies</h3>
-      Aunque tu sitio no las utiliza por ahora, si en el futuro decides implementar cookies, deberás incluir una sección explicando qué cookies utilizas y cómo los usuarios pueden gestionar sus preferencias.
-      <h3 class="heading-text-3">8. Enlaces a Otros Sitios</h3>
+      <h3 class="heading-text-3">7. Enlaces a Otros Sitios</h3>
       Nuestro sitio puede contener enlaces a otros sitios web. No nos hacemos responsables de las prácticas de privacidad de esos sitios. Te recomendamos leer las políticas de privacidad de cualquier sitio que visites a través de un enlace desde nuestro sitio.
-      <h3 class="heading-text-3">9. Cambios en la Política de Privacidad</h3>
+      <h3 class="heading-text-3">8. Cambios en la Política de Privacidad</h3>
       Nos reservamos el derecho de modificar esta Política de Privacidad en cualquier momento. Cualquier cambio será publicado en esta página y entrará en vigor en el momento de su publicación. Te sugerimos revisar esta política periódicamente.
-      <h3 class="heading-text-3">10. Ley Aplicable</h3>
+      <h3 class="heading-text-3">9. Ley Aplicable</h3>
       Esta Política de Privacidad se rige por las leyes de España, y cualquier disputa relacionada con el manejo de datos personales será resuelta conforme a dicha legislación.
       </p><br/><br/>
       <p class="text-align-center">Fecha de última actualización: 17/12/2025</p>
