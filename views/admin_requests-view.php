@@ -1,4 +1,5 @@
 <?php
+
 /** @var string $busqueda */
 /** @var array $consultas */
 /** @var int $paginas */
