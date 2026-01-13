@@ -52,13 +52,14 @@
 
     <main>
         <div class="container-services">
-            <h1 class="text-align-center heading-text model-header">Modelos disponibles</h1>
+            <h1 class="text-align-center heading-text model-header">Servicios disponibles</h1>
             <div class="container-models">
                 <?php foreach ($MODELOS as $id => $modelo): ?>
                     <div class="model-block">
-                        <span class="service-block-tittle"><?= $modelo['nombre'] ?></span>
-                        <img src="./img/modelos/<?= $modelo['imagen'] ?>" alt="Modelo" loading="lazy">
-                        <a class="block-button-service" href="variantes_modelo.php?id=<?= $id ?>">Ver</a>
+                        <a href="variantes_modelo.php?id=<?= $id ?>">
+                            <span class="service-block-tittle"><?= $modelo['nombre'] ?></span>
+                            <img src="./img/modelos/<?= $modelo['imagen'] ?>" alt="Modelo" loading="lazy">
+                        </a>
                     </div>
                 <?php endforeach; ?>
             </div>

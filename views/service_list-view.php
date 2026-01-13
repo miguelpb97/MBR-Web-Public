@@ -57,7 +57,7 @@
 
     <main>
         <div class="container-services">
-            <h1 class="text-align-center heading-text model-header">Servicios para <?= $modelo['nombre'] ?> -
+            <h1 class="text-align-center heading-text model-header">Servicios para <?= $modelo['nombre'] ?>
                 <?= $anio ?>
             </h1>
             <div class="service-list-container">

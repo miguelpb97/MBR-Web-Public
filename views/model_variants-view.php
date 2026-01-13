@@ -58,10 +58,10 @@
             <div class="container-models">
                 <?php foreach ($modelo['anios'] as $anio => $infoAnio): ?>
                     <div class="model-block">
-                        <span class="service-block-tittle"><?= $anio ?></span>
-                        <img src="./img/modelos/<?= $infoAnio['imagen'] ?>" alt="Variante" loading="lazy">
-                        <a class="block-button-service" href="lista_servicios.php?id=<?= $id ?>&anio=<?= $anio ?>">Servicios
-                            disponibles</a>
+                        <a href="lista_servicios.php?id=<?= $id ?>&anio=<?= $anio ?>">
+                            <span class="service-block-tittle"><?= $anio ?></span>
+                            <img src="./img/modelos/<?= $infoAnio['imagen'] ?>" alt="Variante" loading="lazy">
+                        </a>
                     </div>
                 <?php endforeach; ?>
             </div>
