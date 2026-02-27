@@ -36,8 +36,13 @@ input {
   border-radius: 8px;
 }
 
+input:focus {
+  border: 1px solid var(--color-blue-1);
+  outline: none;
+}
+
 button {
-  background-color: var(--color-black);
+  background-color: var(--color-blue-1);
   color: var(--color-white);
   border: none;
   padding: 10px 20px;
@@ -47,10 +52,33 @@ button {
 }
 
 button:hover {
-  background-color: var(--color-active-bg);
+  background-color: var(--color-blue-2);
 }
 
 .error {
   color: var(--color-danger);
   margin-top: 10px;
+}
+
+.password-wrapper {
+  position: relative;
+}
+
+.password-wrapper input {
+  width: 100%;
+  padding-right: 40px;
+  /* espacio para el icono */
+}
+
+.toggle-password {
+  position: absolute;
+  right: 12px;
+  top: 50%;
+  transform: translateY(-50%);
+  cursor: pointer;
+  color: #666;
+}
+
+.toggle-password:hover {
+  color: #000;
 }

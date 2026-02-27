@@ -32,9 +32,11 @@ CREATE TABLE `consultas` (
   `fecha` datetime NOT NULL DEFAULT current_timestamp(),
   `nombre` varchar(50) NOT NULL,
   `email` varchar(50) NOT NULL,
-  `telefono` varchar(20) NOT NULL,
+  `telefono` varchar(20),
   `vin` varchar(50) NOT NULL,
-  `mensaje` text NOT NULL
+  `mensaje` text NOT NULL,
+  `servicio` varchar(100),
+  `modelo` varchar(50)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_uca1400_ai_ci;
 
 --

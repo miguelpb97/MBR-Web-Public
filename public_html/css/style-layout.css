@@ -49,7 +49,7 @@
   flex-wrap: wrap;
 }
 
-.about-us-services-block > div {
+.about-us-services-block>div {
   flex: 1;
   min-width: 260px;
 }

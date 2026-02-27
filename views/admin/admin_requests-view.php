@@ -47,6 +47,8 @@
                     <th>Email</th>
                     <th>Teléfono</th>
                     <th>VIN</th>
+                    <th>Modelo</th>
+                    <th>Servicio</th>
                     <th>Mensaje</th>
                     <th>Fecha</th>
                     <th>Acciones</th>
@@ -61,6 +63,8 @@
                             <td data-label="Email"><?= htmlspecialchars($r['email'], ENT_QUOTES, 'UTF-8') ?></td>
                             <td data-label="Teléfono"><?= htmlspecialchars($r['telefono'], ENT_QUOTES, 'UTF-8') ?></td>
                             <td data-label="VIN"><?= htmlspecialchars($r['vin'], ENT_QUOTES, 'UTF-8') ?></td>
+                            <td data-label="Modelo"><?= htmlspecialchars($r['modelo'], ENT_QUOTES, 'UTF-8') ?></td>
+                            <td data-label="Servicio"><?= htmlspecialchars($r['servicio'], ENT_QUOTES, 'UTF-8') ?></td>
                             <td data-label="Mensaje"><?= nl2br(htmlspecialchars($r['mensaje'], ENT_QUOTES, 'UTF-8')) ?></td>
                             <td data-label="Fecha">
                                 <small><?= htmlspecialchars($r['fecha'], ENT_QUOTES, 'UTF-8') ?></small>

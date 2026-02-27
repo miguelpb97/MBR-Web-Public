@@ -9,82 +9,97 @@
           {
             "titulo": "Desactivar Start/Stop",
             "descripcion": "Sistema Start/Stop por defecto a OFF o Last Mode, depende del tipo de motor",
-            "precio": 50
+            "precio": "50 €"
           },
           {
             "titulo": "Alarma EDW",
             "descripcion": "Activamos alarma perimetral EDW.",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Visualizar presión neumáticos de kPa a bar",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Pitido al bloquear el vehiculo",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Sonido de parktronic en el rango amarillo",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Intermitentes 3 a 6 pulsaciones",
             "descripcion": "Al usar la función rápida del intermitente, en vez de 3 pulsaciones, hará 6.",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Desactivar aviso acustico del cinturón de seguridad",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Test de agujas al dar contacto",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Aviso tapa combustible abierta",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Deslimitar velocidad máxima (No AMG)",
             "descripcion": "Eliminamos la limitación electrónica de velocidad máxima de su vehículo.",
-            "precio": 100
+            "precio": "100 €"
           },
           {
             "titulo": "Deslimitar velocidad máxima (AMG)",
             "descripcion": "Eliminamos la limitación electrónica de velocidad máxima de su vehículo de 250km/h.",
-            "precio": 150
+            "precio": "150 €"
           },
           {
             "titulo": "Emotion Start (AMG)",
             "descripcion": "Breves pops and bangs al arrancar, solo en temperatura de servicio.",
-            "precio": 150
+            "precio": "150 €"
           },
           {
             "titulo": "Comprobar kilometraje real",
             "descripcion": "¿Dudas sobre si el kilometraje de su vehículo ha sido manipulado? Te ayudamos a descubrirlo.",
-            "precio": 50
+            "precio": "50 €"
           },
           {
             "titulo": "Diagnostico básico",
             "descripcion": "Lectura y/o borrado de fallos.",
-            "precio": 40
+            "precio": "35 €"
           },
           {
             "titulo": "Diagnostico avanzado",
             "descripcion": "Lectura y/o borrado de fallos, valores reales, test de componentes, etc..",
-            "precio": 75
+            "precio": "60 €"
           },
           {
             "titulo": "Ayuda con retrofit",
             "descripcion": "Te ayudamos con cualquier retrofit que requiera SCN coding. El precio puede variar en función de la dificultad del mismo.",
-            "precio": 50
+            "precio": "Desde 50 €"
+          },
+          {
+            "titulo": "Retrofit Unidad NTG5.0, NTG5S1 o Garmin",
+            "descripcion": "Si tu vehiculo tiene NTG 4.5 o 4.7 te ayudamos a reequipar NTG5.0, NTG5S1 o Garmin",
+            "precio": "Consultar precio"
+          },
+          {
+            "titulo": "Retrofit cámara visión trasera original",
+            "descripcion": "Reequipamos la cámara de visión trasera original en caso de no disponer de dicho extra",
+            "precio": "Consultar precio"
+          },
+          {
+            "titulo": "Espejos plegables electricamente",
+            "descripcion": "Reequipamos el extra de espejos plegables electricamente Código SA 500",
+            "precio": "Consultar precio"
           }
         ]
       },
@@ -94,97 +109,112 @@
           {
             "titulo": "Desactivar Start/Stop",
             "descripcion": "Sistema Start/Stop por defecto a OFF o Last Mode, depende del tipo de motor",
-            "precio": 50
+            "precio": "50 €"
           },
           {
             "titulo": "Alarma EDW",
             "descripcion": "Activamos alarma perimetral EDW.",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Activación de Apple CarPlay/Android Auto",
             "descripcion": "Activamos dicha función si tu unidad es compatible.",
-            "precio": 50
+            "precio": "50 €"
           },
           {
             "titulo": "Visualizar presión neumáticos de kPa a bar",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Pitido al bloquear el vehiculo",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Sonido de parktronic en el rango amarillo",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Intermitentes 3 a 6 pulsaciones",
             "descripcion": "Al usar la función rápida del intermitente, en vez de 3 pulsaciones, hará 6.",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Alargar tiempo luces de bienvenida",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Desactivar aviso acustico del cinturón de seguridad",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Test de agujas al dar contacto",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Aviso tapa combustible abierta",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Activar luces ambiente en radio y unidad SAM",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Deslimitar velocidad máxima (No AMG)",
             "descripcion": "Eliminamos la limitación electrónica de velocidad máxima de su vehículo.",
-            "precio": 100
+            "precio": "100 €"
           },
           {
             "titulo": "Deslimitar velocidad máxima (AMG)",
             "descripcion": "Eliminamos la limitación electrónica de velocidad máxima de su vehículo de 250km/h.",
-            "precio": 150
+            "precio": "150 €"
           },
           {
             "titulo": "Emotion Start (AMG)",
             "descripcion": "Breves pops and bangs al arrancar, solo en temperatura de servicio.",
-            "precio": 150
+            "precio": "150 €"
           },
           {
             "titulo": "Comprobar kilometraje real",
             "descripcion": "¿Dudas sobre si el kilometraje de su vehículo ha sido manipulado? Te ayudamos a descubrirlo.",
-            "precio": 50
+            "precio": "50 €"
           },
           {
             "titulo": "Diagnostico básico",
             "descripcion": "Lectura y/o borrado de fallos.",
-            "precio": 40
+            "precio": "35 €"
           },
           {
             "titulo": "Diagnostico avanzado",
             "descripcion": "Lectura y/o borrado de fallos, valores reales, test de componentes, etc..",
-            "precio": 75
+            "precio": "60 €"
           },
           {
             "titulo": "Ayuda con retrofit",
             "descripcion": "Te ayudamos con cualquier retrofit que requiera SCN coding. El precio puede variar en función de la dificultad del mismo.",
-            "precio": 50
+            "precio": "Desde 50 €"
+          },
+          {
+            "titulo": "Retrofit Comand NTG5S1",
+            "descripcion": "Si tu vehiculo tiene NTG 5.0 o Garmin te ayudamos a reequipar unidad NTG5S1",
+            "precio": "Consultar precio"
+          },
+          {
+            "titulo": "Retrofit cámara visión trasera plegable original",
+            "descripcion": "Reequipamos la cámara de visión trasera original en caso de no disponer de dicho extra",
+            "precio": "Consultar precio"
+          },
+          {
+            "titulo": "Espejos plegables electricamente",
+            "descripcion": "Reequipamos el extra de espejos plegables electricamente Código SA 500",
+            "precio": "Consultar precio"
           }
         ]
       },
@@ -194,82 +224,82 @@
           {
             "titulo": "Desactivar Start/Stop",
             "descripcion": "Sistema Start/Stop por defecto a OFF o Last Mode, depende del tipo de motor",
-            "precio": 50
+            "precio": "50 €"
           },
           {
             "titulo": "Alarma EDW",
             "descripcion": "Activamos alarma perimetral EDW.",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Visualizar presión neumáticos de kPa a bar",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Luces cortas al abrir el vehiculo",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Realidad aumentada permanente",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Cambio de modo de conducción al aranque",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Intermitentes 3 a 6 pulsaciones",
             "descripcion": "Al usar la función rápida del intermitente, en vez de 3 pulsaciones, hará 6.",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Desactivar aviso acustico del cinturón de seguridad",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Aviso tapa combustible abierta",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Deslimitar velocidad máxima (No AMG)",
             "descripcion": "Eliminamos la limitación electrónica de velocidad máxima de su vehículo.",
-            "precio": 100
+            "precio": "100 €"
           },
           {
             "titulo": "Deslimitar velocidad máxima (AMG)",
             "descripcion": "Eliminamos la limitación electrónica de velocidad máxima de su vehículo de 250km/h.",
-            "precio": 150
+            "precio": "150 €"
           },
           {
             "titulo": "Emotion Start (AMG)",
             "descripcion": "Breves pops and bangs al arrancar, solo en temperatura de servicio.",
-            "precio": 150
+            "precio": "150 €"
           },
           {
             "titulo": "Comprobar kilometraje real",
             "descripcion": "¿Dudas sobre si el kilometraje de su vehículo ha sido manipulado? Te ayudamos a descubrirlo.",
-            "precio": 50
+            "precio": "50 €"
           },
           {
             "titulo": "Diagnostico básico",
             "descripcion": "Lectura y/o borrado de fallos.",
-            "precio": 40
+            "precio": "35 €"
           },
           {
             "titulo": "Diagnostico avanzado",
             "descripcion": "Lectura y/o borrado de fallos, valores reales, test de componentes, etc..",
-            "precio": 75
+            "precio": "60 €"
           },
           {
             "titulo": "Ayuda con retrofit",
             "descripcion": "Te ayudamos con cualquier retrofit que requiera SCN coding. El precio puede variar en función de la dificultad del mismo.",
-            "precio": 50
+            "precio": "Desde 50 €"
           }
         ]
       },
@@ -279,82 +309,82 @@
           {
             "titulo": "Desactivar Start/Stop",
             "descripcion": "Sistema Start/Stop por defecto a OFF o Last Mode, depende del tipo de motor",
-            "precio": 50
+            "precio": "50 €"
           },
           {
             "titulo": "Alarma EDW",
             "descripcion": "Activamos alarma perimetral EDW.",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Visualizar presión neumáticos de kPa a bar",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Luces cortas al abrir el vehiculo",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Realidad aumentada permanente",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Cambio de modo de conducción al aranque",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Intermitentes 3 a 6 pulsaciones",
             "descripcion": "Al usar la función rápida del intermitente, en vez de 3 pulsaciones, hará 6.",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Desactivar aviso acustico del cinturón de seguridad",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Aviso tapa combustible abierta",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Deslimitar velocidad máxima (No AMG)",
             "descripcion": "Eliminamos la limitación electrónica de velocidad máxima de su vehículo.",
-            "precio": 100
+            "precio": "100 €"
           },
           {
             "titulo": "Deslimitar velocidad máxima (AMG)",
             "descripcion": "Eliminamos la limitación electrónica de velocidad máxima de su vehículo de 250km/h.",
-            "precio": 150
+            "precio": "150 €"
           },
           {
             "titulo": "Emotion Start (AMG)",
             "descripcion": "Breves pops and bangs al arrancar, solo en temperatura de servicio.",
-            "precio": 150
+            "precio": "150 €"
           },
           {
             "titulo": "Comprobar kilometraje real",
             "descripcion": "¿Dudas sobre si el kilometraje de su vehículo ha sido manipulado? Te ayudamos a descubrirlo.",
-            "precio": 50
+            "precio": "50 €"
           },
           {
             "titulo": "Diagnostico básico",
             "descripcion": "Lectura y/o borrado de fallos.",
-            "precio": 40
+            "precio": "35 €"
           },
           {
             "titulo": "Diagnostico avanzado",
             "descripcion": "Lectura y/o borrado de fallos, valores reales, test de componentes, etc..",
-            "precio": 75
+            "precio": "75 €"
           },
           {
             "titulo": "Ayuda con retrofit",
             "descripcion": "Te ayudamos con cualquier retrofit que requiera SCN coding. El precio puede variar en función de la dificultad del mismo.",
-            "precio": 50
+            "precio": "Desde 50 €"
           }
         ]
       }
@@ -370,82 +400,97 @@
           {
             "titulo": "Desactivar Start/Stop",
             "descripcion": "Sistema Start/Stop por defecto a OFF o Last Mode, depende del tipo de motor",
-            "precio": 50
+            "precio": "50 €"
           },
           {
             "titulo": "Alarma EDW",
             "descripcion": "Activamos alarma perimetral EDW.",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Visualizar presión neumáticos de kPa a bar",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Pitido al bloquear el vehiculo",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Sonido de parktronic en el rango amarillo",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Intermitentes 3 a 6 pulsaciones",
             "descripcion": "Al usar la función rápida del intermitente, en vez de 3 pulsaciones, hará 6.",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Desactivar aviso acustico del cinturón de seguridad",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Test de agujas al dar contacto",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Aviso tapa combustible abierta",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Deslimitar velocidad máxima (No AMG)",
             "descripcion": "Eliminamos la limitación electrónica de velocidad máxima de su vehículo.",
-            "precio": 100
+            "precio": "100 €"
           },
           {
             "titulo": "Deslimitar velocidad máxima (AMG)",
             "descripcion": "Eliminamos la limitación electrónica de velocidad máxima de su vehículo de 250km/h.",
-            "precio": 150
+            "precio": "150 €"
           },
           {
             "titulo": "Emotion Start (AMG)",
             "descripcion": "Breves pops and bangs al arrancar, solo en temperatura de servicio.",
-            "precio": 150
+            "precio": "150 €"
           },
           {
             "titulo": "Comprobar kilometraje real",
             "descripcion": "¿Dudas sobre si el kilometraje de su vehículo ha sido manipulado? Te ayudamos a descubrirlo.",
-            "precio": 50
+            "precio": "50 €"
           },
           {
             "titulo": "Diagnostico básico",
             "descripcion": "Lectura y/o borrado de fallos.",
-            "precio": 40
+            "precio": "35 €"
           },
           {
             "titulo": "Diagnostico avanzado",
             "descripcion": "Lectura y/o borrado de fallos, valores reales, test de componentes, etc..",
-            "precio": 75
+            "precio": "60 €"
           },
           {
             "titulo": "Ayuda con retrofit",
             "descripcion": "Te ayudamos con cualquier retrofit que requiera SCN coding. El precio puede variar en función de la dificultad del mismo.",
-            "precio": 50
+            "precio": "Desde 50 €"
+          },
+          {
+            "titulo": "Retrofit Unidad NTG5.0, NTG5S1 o Garmin",
+            "descripcion": "Si tu vehiculo tiene NTG 4.5 o 4.7 te ayudamos a reequipar NTG5.0, NTG5S1 o Garmin",
+            "precio": "Consultar precio"
+          },
+          {
+            "titulo": "Retrofit cámara visión trasera original",
+            "descripcion": "Reequipamos la cámara de visión trasera original en caso de no disponer de dicho extra",
+            "precio": "Consultar precio"
+          },
+          {
+            "titulo": "Espejos plegables electricamente",
+            "descripcion": "Reequipamos el extra de espejos plegables electricamente Código SA 500",
+            "precio": "Consultar precio"
           }
         ]
       },
@@ -455,97 +500,112 @@
           {
             "titulo": "Desactivar Start/Stop",
             "descripcion": "Sistema Start/Stop por defecto a OFF o Last Mode, depende del tipo de motor",
-            "precio": 50
+            "precio": "50 €"
           },
           {
             "titulo": "Alarma EDW",
             "descripcion": "Activamos alarma perimetral EDW.",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Activación de Apple CarPlay/Android Auto",
             "descripcion": "Activamos dicha función si tu unidad es compatible.",
-            "precio": 50
+            "precio": "50 €"
           },
           {
             "titulo": "Visualizar presión neumáticos de kPa a bar",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Pitido al bloquear el vehiculo",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Sonido de parktronic en el rango amarillo",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Intermitentes 3 a 6 pulsaciones",
             "descripcion": "Al usar la función rápida del intermitente, en vez de 3 pulsaciones, hará 6.",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Alargar tiempo luces de bienvenida",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Desactivar aviso acustico del cinturón de seguridad",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Test de agujas al dar contacto",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Aviso tapa combustible abierta",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Activar luces ambiente en radio y unidad SAM",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Deslimitar velocidad máxima (No AMG)",
             "descripcion": "Eliminamos la limitación electrónica de velocidad máxima de su vehículo.",
-            "precio": 100
+            "precio": "100 €"
           },
           {
             "titulo": "Deslimitar velocidad máxima (AMG)",
             "descripcion": "Eliminamos la limitación electrónica de velocidad máxima de su vehículo de 250km/h.",
-            "precio": 150
+            "precio": "150 €"
           },
           {
             "titulo": "Emotion Start (AMG)",
             "descripcion": "Breves pops and bangs al arrancar, solo en temperatura de servicio.",
-            "precio": 150
+            "precio": "150 €"
           },
           {
             "titulo": "Comprobar kilometraje real",
             "descripcion": "¿Dudas sobre si el kilometraje de su vehículo ha sido manipulado? Te ayudamos a descubrirlo.",
-            "precio": 50
+            "precio": "50 €"
           },
           {
             "titulo": "Diagnostico básico",
             "descripcion": "Lectura y/o borrado de fallos.",
-            "precio": 40
+            "precio": "35 €"
           },
           {
             "titulo": "Diagnostico avanzado",
             "descripcion": "Lectura y/o borrado de fallos, valores reales, test de componentes, etc..",
-            "precio": 75
+            "precio": "60 €"
           },
           {
             "titulo": "Ayuda con retrofit",
             "descripcion": "Te ayudamos con cualquier retrofit que requiera SCN coding. El precio puede variar en función de la dificultad del mismo.",
-            "precio": 50
+            "precio": "Desde 50 €"
+          },
+          {
+            "titulo": "Retrofit Comand NTG5S1",
+            "descripcion": "Si tu vehiculo tiene NTG 5.0 o Garmin te ayudamos a reequipar unidad NTG5S1",
+            "precio": "Consultar precio"
+          },
+          {
+            "titulo": "Retrofit cámara visión trasera plegable original",
+            "descripcion": "Reequipamos la cámara de visión trasera original en caso de no disponer de dicho extra",
+            "precio": "Consultar precio"
+          },
+          {
+            "titulo": "Espejos plegables electricamente",
+            "descripcion": "Reequipamos el extra de espejos plegables electricamente Código SA 500",
+            "precio": "Consultar precio"
           }
         ]
       },
@@ -555,82 +615,82 @@
           {
             "titulo": "Desactivar Start/Stop",
             "descripcion": "Sistema Start/Stop por defecto a OFF o Last Mode, depende del tipo de motor",
-            "precio": 50
+            "precio": "50 €"
           },
           {
             "titulo": "Alarma EDW",
             "descripcion": "Activamos alarma perimetral EDW.",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Visualizar presión neumáticos de kPa a bar",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Luces cortas al abrir el vehiculo",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Realidad aumentada permanente",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Cambio de modo de conducción al aranque",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Intermitentes 3 a 6 pulsaciones",
             "descripcion": "Al usar la función rápida del intermitente, en vez de 3 pulsaciones, hará 6.",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Desactivar aviso acustico del cinturón de seguridad",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Aviso tapa combustible abierta",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Deslimitar velocidad máxima (No AMG)",
             "descripcion": "Eliminamos la limitación electrónica de velocidad máxima de su vehículo.",
-            "precio": 100
+            "precio": "100 €"
           },
           {
             "titulo": "Deslimitar velocidad máxima (AMG)",
             "descripcion": "Eliminamos la limitación electrónica de velocidad máxima de su vehículo de 250km/h.",
-            "precio": 150
+            "precio": "150 €"
           },
           {
             "titulo": "Emotion Start (AMG)",
             "descripcion": "Breves pops and bangs al arrancar, solo en temperatura de servicio.",
-            "precio": 150
+            "precio": "150 €"
           },
           {
             "titulo": "Comprobar kilometraje real",
             "descripcion": "¿Dudas sobre si el kilometraje de su vehículo ha sido manipulado? Te ayudamos a descubrirlo.",
-            "precio": 50
+            "precio": "50 €"
           },
           {
             "titulo": "Diagnostico básico",
             "descripcion": "Lectura y/o borrado de fallos.",
-            "precio": 40
+            "precio": "35 €"
           },
           {
             "titulo": "Diagnostico avanzado",
             "descripcion": "Lectura y/o borrado de fallos, valores reales, test de componentes, etc..",
-            "precio": 75
+            "precio": "60 €"
           },
           {
             "titulo": "Ayuda con retrofit",
             "descripcion": "Te ayudamos con cualquier retrofit que requiera SCN coding. El precio puede variar en función de la dificultad del mismo.",
-            "precio": 50
+            "precio": "Desde 50 €"
           }
         ]
       }
@@ -646,47 +706,47 @@
           {
             "titulo": "Desactivar aviso acústico cinturon seguridad",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Mostrar litros de combustible retantes",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Mostrar rango de km retantes",
             "descripcion": "Con esta activación siempre nos mostrará el rango restante en km.",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Deslimitar velocidad máxima (No AMG)",
             "descripcion": "Eliminamos la limitación electrónica de velocidad máxima de su vehículo.",
-            "precio": 100
+            "precio": "100 €"
           },
           {
             "titulo": "Deslimitar velocidad máxima (AMG)",
             "descripcion": "Eliminamos la limitación electrónica de velocidad máxima de su vehículo de 250km/h.",
-            "precio": 150
+            "precio": "150 €"
           },
           {
             "titulo": "Cambio de volumen del parktronic",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Usar luces de niebla para los giros",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Alargar tiempo retardo de apagado unidad Comand",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Permitir reproducción de vídeo en movimiento en la unidad Comand",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           }
         ]
       },
@@ -696,47 +756,47 @@
           {
             "titulo": "Desactivar Start/Stop",
             "descripcion": "Sistema Start/Stop por defecto a OFF o Last Mode, depende del tipo de motor",
-            "precio": 50
+            "precio": "50 €"
           },
           {
             "titulo": "Desactivar aviso acústico cinturon seguridad",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Mostrar litros de combustible retantes",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Deslimitar velocidad máxima (No AMG)",
             "descripcion": "Eliminamos la limitación electrónica de velocidad máxima de su vehículo.",
-            "precio": 100
+            "precio": "100 €"
           },
           {
             "titulo": "Deslimitar velocidad máxima (AMG)",
             "descripcion": "Eliminamos la limitación electrónica de velocidad máxima de su vehículo de 250km/h.",
-            "precio": 150
+            "precio": "150 €"
           },
           {
             "titulo": "Cambio de volumen del parktronic",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Usar luces de niebla para los giros",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Alargar tiempo retardo de apagado unidad Comand",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Permitir reproducción de vídeo en movimiento en la unidad Comand",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           }
         ]
       },
@@ -746,57 +806,57 @@
           {
             "titulo": "Desactivar Start/Stop",
             "descripcion": "Sistema Start/Stop por defecto a OFF o Last Mode, depende del tipo de motor",
-            "precio": 50
+            "precio": "50 €"
           },
           {
             "titulo": "Desactivar aviso acústico cinturon seguridad",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Mostrar litros de combustible retantes",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Mostrar rango de km retantes",
             "descripcion": "Con esta activación siempre nos mostrará el rango restante en km.",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Deslimitar velocidad máxima (No AMG)",
             "descripcion": "Eliminamos la limitación electrónica de velocidad máxima de su vehículo.",
-            "precio": 100
+            "precio": "100 €"
           },
           {
             "titulo": "Deslimitar velocidad máxima (AMG)",
             "descripcion": "Eliminamos la limitación electrónica de velocidad máxima de su vehículo de 250km/h.",
-            "precio": 150
+            "precio": "150 €"
           },
           {
             "titulo": "Cambio de volumen del parktronic",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Usar luces de niebla para los giros",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Alargar tiempo retardo de apagado unidad Comand",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Permitir reproducción de vídeo en movimiento en la unidad Comand",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Función antivibración techo solar",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           }
         ]
       },
@@ -806,77 +866,77 @@
           {
             "titulo": "Desactivar Start/Stop",
             "descripcion": "Sistema Start/Stop por defecto a OFF o Last Mode, depende del tipo de motor",
-            "precio": 50
+            "precio": "50 €"
           },
           {
             "titulo": "Alarma EDW",
             "descripcion": "Activamos alarma perimetral EDW.",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Activación de Apple CarPlay/Android Auto",
             "descripcion": "Activamos dicha función si tu unidad es compatible.",
-            "precio": 50
+            "precio": "50 €"
           },
           {
             "titulo": "Visualizar presión neumáticos de kPa a bar",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Intermitentes 3 a 6 pulsaciones",
             "descripcion": "Al usar la función rápida del intermitente, en vez de 3 pulsaciones, hará 6.",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Desactivar aviso acústico cinturon seguridad",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Mostrar litros de combustible retantes",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Mostrar rango de km retantes",
             "descripcion": "Con esta activación siempre nos mostrará el rango restante en km.",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Deslimitar velocidad máxima (No AMG)",
             "descripcion": "Eliminamos la limitación electrónica de velocidad máxima de su vehículo.",
-            "precio": 100
+            "precio": "100 €"
           },
           {
             "titulo": "Deslimitar velocidad máxima (AMG)",
             "descripcion": "Eliminamos la limitación electrónica de velocidad máxima de su vehículo de 250km/h.",
-            "precio": 150
+            "precio": "150 €"
           },
           {
             "titulo": "Cambio de volumen del parktronic",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Usar luces de niebla para los giros",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Alargar tiempo retardo de apagado unidad Comand",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Permitir reproducción de vídeo en movimiento en la unidad Comand",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Función antivibración techo solar",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           }
         ]
       }
@@ -892,82 +952,97 @@
           {
             "titulo": "Desactivar Start/Stop",
             "descripcion": "Sistema Start/Stop por defecto a OFF o Last Mode, depende del tipo de motor",
-            "precio": 50
+            "precio": "50 €"
           },
           {
             "titulo": "Alarma EDW",
             "descripcion": "Activamos alarma perimetral EDW.",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Visualizar presión neumáticos de kPa a bar",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Pitido al bloquear el vehiculo",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Sonido de parktronic en el rango amarillo",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Intermitentes 3 a 6 pulsaciones",
             "descripcion": "Al usar la función rápida del intermitente, en vez de 3 pulsaciones, hará 6.",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Desactivar aviso acustico del cinturón de seguridad",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Test de agujas al dar contacto",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Aviso tapa combustible abierta",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Deslimitar velocidad máxima (No AMG)",
             "descripcion": "Eliminamos la limitación electrónica de velocidad máxima de su vehículo.",
-            "precio": 100
+            "precio": "100 €"
           },
           {
             "titulo": "Deslimitar velocidad máxima (AMG)",
             "descripcion": "Eliminamos la limitación electrónica de velocidad máxima de su vehículo de 250km/h.",
-            "precio": 150
+            "precio": "150 €"
           },
           {
             "titulo": "Emotion Start (AMG)",
             "descripcion": "Breves pops and bangs al arrancar, solo en temperatura de servicio.",
-            "precio": 150
+            "precio": "150 €"
           },
           {
             "titulo": "Comprobar kilometraje real",
             "descripcion": "¿Dudas sobre si el kilometraje de su vehículo ha sido manipulado? Te ayudamos a descubrirlo.",
-            "precio": 50
+            "precio": "50 €"
           },
           {
             "titulo": "Diagnostico básico",
             "descripcion": "Lectura y/o borrado de fallos.",
-            "precio": 40
+            "precio": "35 €"
           },
           {
             "titulo": "Diagnostico avanzado",
             "descripcion": "Lectura y/o borrado de fallos, valores reales, test de componentes, etc..",
-            "precio": 75
+            "precio": "60 €"
           },
           {
             "titulo": "Ayuda con retrofit",
             "descripcion": "Te ayudamos con cualquier retrofit que requiera SCN coding. El precio puede variar en función de la dificultad del mismo.",
-            "precio": 50
+            "precio": "Desde 50 €"
+          },
+          {
+            "titulo": "Retrofit Unidad NTG5.0, NTG5S1 o Garmin",
+            "descripcion": "Si tu vehiculo tiene NTG 4.5 o 4.7 te ayudamos a reequipar NTG5.0, NTG5S1 o Garmin",
+            "precio": "Consultar precio"
+          },
+          {
+            "titulo": "Retrofit cámara visión trasera original",
+            "descripcion": "Reequipamos la cámara de visión trasera original en caso de no disponer de dicho extra",
+            "precio": "Consultar precio"
+          },
+          {
+            "titulo": "Espejos plegables electricamente",
+            "descripcion": "Reequipamos el extra de espejos plegables electricamente Código SA 500",
+            "precio": "Consultar precio"
           }
         ]
       },
@@ -977,97 +1052,112 @@
           {
             "titulo": "Desactivar Start/Stop",
             "descripcion": "Sistema Start/Stop por defecto a OFF o Last Mode, depende del tipo de motor",
-            "precio": 50
+            "precio": "50 €"
           },
           {
             "titulo": "Alarma EDW",
             "descripcion": "Activamos alarma perimetral EDW.",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Activación de Apple CarPlay/Android Auto",
             "descripcion": "Activamos dicha función si tu unidad es compatible.",
-            "precio": 50
+            "precio": "50 €"
           },
           {
             "titulo": "Visualizar presión neumáticos de kPa a bar",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Pitido al bloquear el vehiculo",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Sonido de parktronic en el rango amarillo",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Intermitentes 3 a 6 pulsaciones",
             "descripcion": "Al usar la función rápida del intermitente, en vez de 3 pulsaciones, hará 6.",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Alargar tiempo luces de bienvenida",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Desactivar aviso acustico del cinturón de seguridad",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Test de agujas al dar contacto",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Aviso tapa combustible abierta",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Activar luces ambiente en radio y unidad SAM",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Deslimitar velocidad máxima (No AMG)",
             "descripcion": "Eliminamos la limitación electrónica de velocidad máxima de su vehículo.",
-            "precio": 100
+            "precio": "100 €"
           },
           {
             "titulo": "Deslimitar velocidad máxima (AMG)",
             "descripcion": "Eliminamos la limitación electrónica de velocidad máxima de su vehículo de 250km/h.",
-            "precio": 150
+            "precio": "150 €"
           },
           {
             "titulo": "Emotion Start (AMG)",
             "descripcion": "Breves pops and bangs al arrancar, solo en temperatura de servicio.",
-            "precio": 150
+            "precio": "150 €"
           },
           {
             "titulo": "Comprobar kilometraje real",
             "descripcion": "¿Dudas sobre si el kilometraje de su vehículo ha sido manipulado? Te ayudamos a descubrirlo.",
-            "precio": 50
+            "precio": "50 €"
           },
           {
             "titulo": "Diagnostico básico",
             "descripcion": "Lectura y/o borrado de fallos.",
-            "precio": 40
+            "precio": "35 €"
           },
           {
             "titulo": "Diagnostico avanzado",
             "descripcion": "Lectura y/o borrado de fallos, valores reales, test de componentes, etc..",
-            "precio": 75
+            "precio": "60 €"
           },
           {
             "titulo": "Ayuda con retrofit",
             "descripcion": "Te ayudamos con cualquier retrofit que requiera SCN coding. El precio puede variar en función de la dificultad del mismo.",
-            "precio": 50
+            "precio": "Desde 50 €"
+          },
+          {
+            "titulo": "Retrofit Comand NTG5S1",
+            "descripcion": "Si tu vehiculo tiene NTG 5.0 o Garmin te ayudamos a reequipar unidad NTG5S1",
+            "precio": "Consultar precio"
+          },
+          {
+            "titulo": "Retrofit cámara visión trasera plegable original",
+            "descripcion": "Reequipamos la cámara de visión trasera original en caso de no disponer de dicho extra",
+            "precio": "Consultar precio"
+          },
+          {
+            "titulo": "Espejos plegables electricamente",
+            "descripcion": "Reequipamos el extra de espejos plegables electricamente Código SA 500",
+            "precio": "Consultar precio"
           }
         ]
       },
@@ -1077,82 +1167,82 @@
           {
             "titulo": "Desactivar Start/Stop",
             "descripcion": "Sistema Start/Stop por defecto a OFF o Last Mode, depende del tipo de motor",
-            "precio": 50
+            "precio": "50 €"
           },
           {
             "titulo": "Alarma EDW",
             "descripcion": "Activamos alarma perimetral EDW.",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Visualizar presión neumáticos de kPa a bar",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Luces cortas al abrir el vehiculo",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Realidad aumentada permanente",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Cambio de modo de conducción al aranque",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Intermitentes 3 a 6 pulsaciones",
             "descripcion": "Al usar la función rápida del intermitente, en vez de 3 pulsaciones, hará 6.",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Desactivar aviso acustico del cinturón de seguridad",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Aviso tapa combustible abierta",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Deslimitar velocidad máxima (No AMG)",
             "descripcion": "Eliminamos la limitación electrónica de velocidad máxima de su vehículo.",
-            "precio": 100
+            "precio": "100 €"
           },
           {
             "titulo": "Deslimitar velocidad máxima (AMG)",
             "descripcion": "Eliminamos la limitación electrónica de velocidad máxima de su vehículo de 250km/h.",
-            "precio": 150
+            "precio": "150 €"
           },
           {
             "titulo": "Emotion Start (AMG)",
             "descripcion": "Breves pops and bangs al arrancar, solo en temperatura de servicio.",
-            "precio": 150
+            "precio": "150 €"
           },
           {
             "titulo": "Comprobar kilometraje real",
             "descripcion": "¿Dudas sobre si el kilometraje de su vehículo ha sido manipulado? Te ayudamos a descubrirlo.",
-            "precio": 50
+            "precio": "50 €"
           },
           {
             "titulo": "Diagnostico básico",
             "descripcion": "Lectura y/o borrado de fallos.",
-            "precio": 40
+            "precio": "35 €"
           },
           {
             "titulo": "Diagnostico avanzado",
             "descripcion": "Lectura y/o borrado de fallos, valores reales, test de componentes, etc..",
-            "precio": 75
+            "precio": "60 €"
           },
           {
             "titulo": "Ayuda con retrofit",
             "descripcion": "Te ayudamos con cualquier retrofit que requiera SCN coding. El precio puede variar en función de la dificultad del mismo.",
-            "precio": 50
+            "precio": "Desde 50 €"
           }
         ]
       }
@@ -1168,67 +1258,67 @@
           {
             "titulo": "Desactivar aviso acústico cinturon seguridad",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Mostrar litros de combustible retantes",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Mostrar rango de km retantes",
             "descripcion": "Con esta activación siempre nos mostrará el rango restante en km.",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Deslimitar velocidad máxima (No AMG)",
             "descripcion": "Eliminamos la limitación electrónica de velocidad máxima de su vehículo.",
-            "precio": 100
+            "precio": "100 €"
           },
           {
             "titulo": "Deslimitar velocidad máxima (AMG)",
             "descripcion": "Eliminamos la limitación electrónica de velocidad máxima de su vehículo de 250km/h.",
-            "precio": 150
+            "precio": "150 €"
           },
           {
             "titulo": "Cambio de volumen del parktronic",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Usar luces de niebla para los giros",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Alargar tiempo retardo de apagado unidad Comand",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Permitir reproducción de vídeo en movimiento en la unidad Comand",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Comprobar kilometraje real",
             "descripcion": "¿Dudas sobre si el kilometraje de su vehículo ha sido manipulado? Te ayudamos a descubrirlo.",
-            "precio": 50
+            "precio": "50 €"
           },
           {
             "titulo": "Diagnostico básico",
             "descripcion": "Lectura y/o borrado de fallos.",
-            "precio": 40
+            "precio": "35 €"
           },
           {
             "titulo": "Diagnostico avanzado",
             "descripcion": "Lectura y/o borrado de fallos, valores reales, test de componentes, etc..",
-            "precio": 75
+            "precio": "60 €"
           },
           {
             "titulo": "Ayuda con retrofit",
             "descripcion": "Te ayudamos con cualquier retrofit que requiera SCN coding. El precio puede variar en función de la dificultad del mismo.",
-            "precio": 50
+            "precio": "Desde 50 €"
           }
         ]
       }
@@ -1244,97 +1334,97 @@
           {
             "titulo": "Desactivar Start/Stop",
             "descripcion": "Sistema Start/Stop por defecto a OFF o Last Mode, depende del tipo de motor",
-            "precio": 50
+            "precio": "50 €"
           },
           {
             "titulo": "Alarma EDW",
             "descripcion": "Activamos alarma perimetral EDW.",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Visualizar presión neumáticos de kPa a bar",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Pitido al bloquear el vehiculo",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Sonido de parktronic en el rango amarillo",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Intermitentes 3 a 6 pulsaciones",
             "descripcion": "Al usar la función rápida del intermitente, en vez de 3 pulsaciones, hará 6.",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Desactivar aviso acustico del cinturón de seguridad",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Mostrar autonomía total de km del vehículo",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Test de agujas al dar contacto",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Aviso tapa combustible abierta",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Aireadores con luces ambiente",
             "descripcion": "Retrofit de airedores estilo C118 con luces ambiente personalizables desde una App.",
-            "precio": 250
+            "precio": "250 €"
           },
           {
             "titulo": "Limpiaparabrisas automático",
             "descripcion": "Requiere cambio de sensor, incluido en el precio.",
-            "precio": 275
+            "precio": "275 €"
           },
           {
             "titulo": "Deslimitar velocidad máxima (No AMG)",
             "descripcion": "Eliminamos la limitación electrónica de velocidad máxima de su vehículo.",
-            "precio": 100
+            "precio": "100 €"
           },
           {
             "titulo": "Deslimitar velocidad máxima (AMG)",
             "descripcion": "Eliminamos la limitación electrónica de velocidad máxima de su vehículo de 250km/h.",
-            "precio": 150
+            "precio": "150 €"
           },
           {
             "titulo": "Emotion Start (AMG)",
             "descripcion": "Breves pops and bangs al arrancar, solo en temperatura de servicio.",
-            "precio": 150
+            "precio": "150 €"
           },
           {
             "titulo": "Comprobar kilometraje real",
             "descripcion": "¿Dudas sobre si el kilometraje de su vehículo ha sido manipulado? Te ayudamos a descubrirlo.",
-            "precio": 50
+            "precio": "50 €"
           },
           {
             "titulo": "Diagnostico básico",
             "descripcion": "Lectura y/o borrado de fallos.",
-            "precio": 40
+            "precio": "35 €"
           },
           {
             "titulo": "Diagnostico avanzado",
             "descripcion": "Lectura y/o borrado de fallos, valores reales, test de componentes, etc..",
-            "precio": 75
+            "precio": "60 €"
           },
           {
             "titulo": "Ayuda con retrofit",
             "descripcion": "Te ayudamos con cualquier retrofit que requiera SCN coding. El precio puede variar en función de la dificultad del mismo.",
-            "precio": 50
+            "precio": "Desde 50 €"
           }
         ]
       },
@@ -1344,102 +1434,102 @@
           {
             "titulo": "Desactivar Start/Stop",
             "descripcion": "Sistema Start/Stop por defecto a OFF o Last Mode, depende del tipo de motor",
-            "precio": 50
+            "precio": "50 €"
           },
           {
             "titulo": "Alarma EDW",
             "descripcion": "Activamos alarma perimetral EDW.",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "7 modos aire acondicionado",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Activación de Apple CarPlay/Android Auto",
             "descripcion": "Activamos dicha función si tu unidad es compatible.",
-            "precio": 50
+            "precio": "50 €"
           },
           {
             "titulo": "Visualizar presión neumáticos de kPa a bar",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Intermitentes 3 a 6 pulsaciones",
             "descripcion": "Al usar la función rápida del intermitente, en vez de 3 pulsaciones, hará 6.",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Desactivar aviso acústico cinturon seguridad",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Mostrar litros de combustible retantes",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Mostrar rango de km retantes",
             "descripcion": "Con esta activación siempre nos mostrará el rango restante en km.",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Deslimitar velocidad máxima (No AMG)",
             "descripcion": "Eliminamos la limitación electrónica de velocidad máxima de su vehículo.",
-            "precio": 100
+            "precio": "100 €"
           },
           {
             "titulo": "Deslimitar velocidad máxima (AMG)",
             "descripcion": "Eliminamos la limitación electrónica de velocidad máxima de su vehículo de 250km/h.",
-            "precio": 150
+            "precio": "150 €"
           },
           {
             "titulo": "Cambio de volumen del parktronic",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Usar luces de niebla para los giros",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Alargar tiempo retardo de apagado unidad Comand",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Permitir reproducción de vídeo en movimiento en la unidad Comand",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Función antivibración techo solar",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Comprobar kilometraje real",
             "descripcion": "¿Dudas sobre si el kilometraje de su vehículo ha sido manipulado? Te ayudamos a descubrirlo.",
-            "precio": 50
+            "precio": "50 €"
           },
           {
             "titulo": "Diagnostico básico",
             "descripcion": "Lectura y/o borrado de fallos.",
-            "precio": 40
+            "precio": "35 €"
           },
           {
             "titulo": "Diagnostico avanzado",
             "descripcion": "Lectura y/o borrado de fallos, valores reales, test de componentes, etc..",
-            "precio": 75
+            "precio": "60 €"
           },
           {
             "titulo": "Ayuda con retrofit",
             "descripcion": "Te ayudamos con cualquier retrofit que requiera SCN coding. El precio puede variar en función de la dificultad del mismo.",
-            "precio": 50
+            "precio": "Desde 50 €"
           }
         ]
       }
@@ -1455,67 +1545,67 @@
           {
             "titulo": "Desactivar aviso acústico cinturon seguridad",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Mostrar litros de combustible retantes",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Mostrar rango de km retantes",
             "descripcion": "Con esta activación siempre nos mostrará el rango restante en km.",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Deslimitar velocidad máxima (No AMG)",
             "descripcion": "Eliminamos la limitación electrónica de velocidad máxima de su vehículo.",
-            "precio": 100
+            "precio": "100 €"
           },
           {
             "titulo": "Deslimitar velocidad máxima (AMG)",
             "descripcion": "Eliminamos la limitación electrónica de velocidad máxima de su vehículo de 250km/h.",
-            "precio": 150
+            "precio": "150 €"
           },
           {
             "titulo": "Cambio de volumen del parktronic",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Usar luces de niebla para los giros",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Alargar tiempo retardo de apagado unidad Comand",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Permitir reproducción de vídeo en movimiento en la unidad Comand",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Comprobar kilometraje real",
             "descripcion": "¿Dudas sobre si el kilometraje de su vehículo ha sido manipulado? Te ayudamos a descubrirlo.",
-            "precio": 50
+            "precio": "50 €"
           },
           {
             "titulo": "Diagnostico básico",
             "descripcion": "Lectura y/o borrado de fallos.",
-            "precio": 40
+            "precio": "35 €"
           },
           {
             "titulo": "Diagnostico avanzado",
             "descripcion": "Lectura y/o borrado de fallos, valores reales, test de componentes, etc..",
-            "precio": 75
+            "precio": "60 €"
           },
           {
             "titulo": "Ayuda con retrofit",
             "descripcion": "Te ayudamos con cualquier retrofit que requiera SCN coding. El precio puede variar en función de la dificultad del mismo.",
-            "precio": 50
+            "precio": "Desde 50 €"
           }
         ]
       },
@@ -1525,72 +1615,72 @@
           {
             "titulo": "Desactivar Start/Stop",
             "descripcion": "Sistema Start/Stop por defecto a OFF o Last Mode, depende del tipo de motor",
-            "precio": 50
+            "precio": "50 €"
           },
           {
             "titulo": "Alarma EDW",
             "descripcion": "Activamos alarma perimetral EDW.",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Visualizar presión neumáticos de kPa a bar",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "7 modos aire acondicionado",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Sonido de parktronic en el rango amarillo",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Intermitentes 3 a 6 pulsaciones",
             "descripcion": "Al usar la función rápida del intermitente, en vez de 3 pulsaciones, hará 6.",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Desactivar aviso acustico del cinturón de seguridad",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Mostrar autonomía total de km del vehículo",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Deslimitar velocidad máxima (No AMG)",
             "descripcion": "Eliminamos la limitación electrónica de velocidad máxima de su vehículo.",
-            "precio": 100
+            "precio": "100 €"
           },
           {
             "titulo": "Deslimitar velocidad máxima (AMG)",
             "descripcion": "Eliminamos la limitación electrónica de velocidad máxima de su vehículo de 250km/h.",
-            "precio": 150
+            "precio": "150 €"
           },
           {
             "titulo": "Comprobar kilometraje real",
             "descripcion": "¿Dudas sobre si el kilometraje de su vehículo ha sido manipulado? Te ayudamos a descubrirlo.",
-            "precio": 50
+            "precio": "50 €"
           },
           {
             "titulo": "Diagnostico básico",
             "descripcion": "Lectura y/o borrado de fallos.",
-            "precio": 40
+            "precio": "35 €"
           },
           {
             "titulo": "Diagnostico avanzado",
             "descripcion": "Lectura y/o borrado de fallos, valores reales, test de componentes, etc..",
-            "precio": 75
+            "precio": "60 €"
           },
           {
             "titulo": "Ayuda con retrofit",
             "descripcion": "Te ayudamos con cualquier retrofit que requiera SCN coding. El precio puede variar en función de la dificultad del mismo.",
-            "precio": 50
+            "precio": "Desde 50 €"
           }
         ]
       },
@@ -1600,52 +1690,52 @@
           {
             "titulo": "Desactivar Start/Stop",
             "descripcion": "Sistema Start/Stop por defecto a OFF o Last Mode, depende del tipo de motor",
-            "precio": 50
+            "precio": "50 €"
           },
           {
             "titulo": "Desactivar aviso acústico cinturon seguridad",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Mostrar rango de km retantes",
             "descripcion": "Con esta activación siempre nos mostrará el rango restante en km.",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Mostrar litros de combustible retantes",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Deslimitar velocidad máxima (No AMG)",
             "descripcion": "Eliminamos la limitación electrónica de velocidad máxima de su vehículo.",
-            "precio": 100
+            "precio": "100 €"
           },
           {
             "titulo": "Deslimitar velocidad máxima (AMG)",
             "descripcion": "Eliminamos la limitación electrónica de velocidad máxima de su vehículo de 250km/h.",
-            "precio": 150
+            "precio": "150 €"
           },
           {
             "titulo": "Comprobar kilometraje real",
             "descripcion": "¿Dudas sobre si el kilometraje de su vehículo ha sido manipulado? Te ayudamos a descubrirlo.",
-            "precio": 50
+            "precio": "50 €"
           },
           {
             "titulo": "Diagnostico básico",
             "descripcion": "Lectura y/o borrado de fallos.",
-            "precio": 40
+            "precio": "35 €"
           },
           {
             "titulo": "Diagnostico avanzado",
             "descripcion": "Lectura y/o borrado de fallos, valores reales, test de componentes, etc..",
-            "precio": 75
+            "precio": "60 €"
           },
           {
             "titulo": "Ayuda con retrofit",
             "descripcion": "Te ayudamos con cualquier retrofit que requiera SCN coding. El precio puede variar en función de la dificultad del mismo.",
-            "precio": 50
+            "precio": "Desde 50 €"
           }
         ]
       },
@@ -1655,52 +1745,52 @@
           {
             "titulo": "Desactivar Start/Stop",
             "descripcion": "Sistema Start/Stop por defecto a OFF o Last Mode, depende del tipo de motor",
-            "precio": 50
+            "precio": "50 €"
           },
           {
             "titulo": "Desactivar aviso acústico cinturon seguridad",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Mostrar rango de km retantes",
             "descripcion": "Con esta activación siempre nos mostrará el rango restante en km.",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Mostrar litros de combustible retantes",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Deslimitar velocidad máxima (No AMG)",
             "descripcion": "Eliminamos la limitación electrónica de velocidad máxima de su vehículo.",
-            "precio": 100
+            "precio": "100 €"
           },
           {
             "titulo": "Deslimitar velocidad máxima (AMG)",
             "descripcion": "Eliminamos la limitación electrónica de velocidad máxima de su vehículo de 250km/h.",
-            "precio": 150
+            "precio": "150 €"
           },
           {
             "titulo": "Comprobar kilometraje real",
             "descripcion": "¿Dudas sobre si el kilometraje de su vehículo ha sido manipulado? Te ayudamos a descubrirlo.",
-            "precio": 50
+            "precio": "50 €"
           },
           {
             "titulo": "Diagnostico básico",
             "descripcion": "Lectura y/o borrado de fallos.",
-            "precio": 40
+            "precio": "35 €"
           },
           {
             "titulo": "Diagnostico avanzado",
             "descripcion": "Lectura y/o borrado de fallos, valores reales, test de componentes, etc..",
-            "precio": 75
+            "precio": "60 €"
           },
           {
             "titulo": "Ayuda con retrofit",
             "descripcion": "Te ayudamos con cualquier retrofit que requiera SCN coding. El precio puede variar en función de la dificultad del mismo.",
-            "precio": 50
+            "precio": "Desde 50 €"
           }
         ]
       }
@@ -1716,67 +1806,67 @@
           {
             "titulo": "Desactivar aviso acústico cinturon seguridad",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Mostrar litros de combustible retantes",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Mostrar rango de km retantes",
             "descripcion": "Con esta activación siempre nos mostrará el rango restante en km.",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Deslimitar velocidad máxima (No AMG)",
             "descripcion": "Eliminamos la limitación electrónica de velocidad máxima de su vehículo.",
-            "precio": 100
+            "precio": "100 €"
           },
           {
             "titulo": "Deslimitar velocidad máxima (AMG)",
             "descripcion": "Eliminamos la limitación electrónica de velocidad máxima de su vehículo de 250km/h.",
-            "precio": 150
+            "precio": "150 €"
           },
           {
             "titulo": "Cambio de volumen del parktronic",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Usar luces de niebla para los giros",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Alargar tiempo retardo de apagado unidad Comand",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Permitir reproducción de vídeo en movimiento en la unidad Comand",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Comprobar kilometraje real",
             "descripcion": "¿Dudas sobre si el kilometraje de su vehículo ha sido manipulado? Te ayudamos a descubrirlo.",
-            "precio": 50
+            "precio": "50 €"
           },
           {
             "titulo": "Diagnostico básico",
             "descripcion": "Lectura y/o borrado de fallos.",
-            "precio": 40
+            "precio": "35 €"
           },
           {
             "titulo": "Diagnostico avanzado",
             "descripcion": "Lectura y/o borrado de fallos, valores reales, test de componentes, etc..",
-            "precio": 75
+            "precio": "60 €"
           },
           {
             "titulo": "Ayuda con retrofit",
             "descripcion": "Te ayudamos con cualquier retrofit que requiera SCN coding. El precio puede variar en función de la dificultad del mismo.",
-            "precio": 50
+            "precio": "Desde 50 €"
           }
         ]
       }
@@ -1792,82 +1882,112 @@
           {
             "titulo": "Desactivar Start/Stop",
             "descripcion": "Sistema Start/Stop por defecto a OFF o Last Mode, depende del tipo de motor",
-            "precio": 50
+            "precio": "50 €"
           },
           {
             "titulo": "Alarma EDW",
             "descripcion": "Activamos alarma perimetral EDW.",
-            "precio": 35
+            "precio": "35 €"
+          },
+          {
+            "titulo": "Activación de Apple CarPlay/Android Auto",
+            "descripcion": "Activamos dicha función si tu unidad es compatible.",
+            "precio": "50 €"
           },
           {
             "titulo": "Visualizar presión neumáticos de kPa a bar",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Pitido al bloquear el vehiculo",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Sonido de parktronic en el rango amarillo",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Intermitentes 3 a 6 pulsaciones",
             "descripcion": "Al usar la función rápida del intermitente, en vez de 3 pulsaciones, hará 6.",
-            "precio": 35
+            "precio": "35 €"
+          },
+          {
+            "titulo": "Alargar tiempo luces de bienvenida",
+            "descripcion": "",
+            "precio": "35 €"
           },
           {
             "titulo": "Desactivar aviso acustico del cinturón de seguridad",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Test de agujas al dar contacto",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Aviso tapa combustible abierta",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
+          },
+          {
+            "titulo": "Activar luces ambiente en radio y unidad SAM",
+            "descripcion": "",
+            "precio": "35 €"
           },
           {
             "titulo": "Deslimitar velocidad máxima (No AMG)",
             "descripcion": "Eliminamos la limitación electrónica de velocidad máxima de su vehículo.",
-            "precio": 100
+            "precio": "100 €"
           },
           {
             "titulo": "Deslimitar velocidad máxima (AMG)",
             "descripcion": "Eliminamos la limitación electrónica de velocidad máxima de su vehículo de 250km/h.",
-            "precio": 150
+            "precio": "150 €"
           },
           {
             "titulo": "Emotion Start (AMG)",
             "descripcion": "Breves pops and bangs al arrancar, solo en temperatura de servicio.",
-            "precio": 150
+            "precio": "150 €"
           },
           {
             "titulo": "Comprobar kilometraje real",
             "descripcion": "¿Dudas sobre si el kilometraje de su vehículo ha sido manipulado? Te ayudamos a descubrirlo.",
-            "precio": 50
+            "precio": "50 €"
           },
           {
             "titulo": "Diagnostico básico",
             "descripcion": "Lectura y/o borrado de fallos.",
-            "precio": 40
+            "precio": "35 €"
           },
           {
             "titulo": "Diagnostico avanzado",
             "descripcion": "Lectura y/o borrado de fallos, valores reales, test de componentes, etc..",
-            "precio": 75
+            "precio": "60 €"
           },
           {
             "titulo": "Ayuda con retrofit",
             "descripcion": "Te ayudamos con cualquier retrofit que requiera SCN coding. El precio puede variar en función de la dificultad del mismo.",
-            "precio": 50
+            "precio": "Desde 50 €"
+          },
+          {
+            "titulo": "Retrofit Comand NTG5S1",
+            "descripcion": "Si tu vehiculo tiene NTG 5.0 o Garmin te ayudamos a reequipar unidad NTG5S1",
+            "precio": "Consultar precio"
+          },
+          {
+            "titulo": "Retrofit cámara visión trasera plegable original",
+            "descripcion": "Reequipamos la cámara de visión trasera original en caso de no disponer de dicho extra",
+            "precio": "Consultar precio"
+          },
+          {
+            "titulo": "Espejos plegables electricamente",
+            "descripcion": "Reequipamos el extra de espejos plegables electricamente Código SA 500",
+            "precio": "Consultar precio"
           }
         ]
       },
@@ -1877,97 +1997,112 @@
           {
             "titulo": "Desactivar Start/Stop",
             "descripcion": "Sistema Start/Stop por defecto a OFF o Last Mode, depende del tipo de motor",
-            "precio": 50
+            "precio": "50 €"
           },
           {
             "titulo": "Alarma EDW",
             "descripcion": "Activamos alarma perimetral EDW.",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Activación de Apple CarPlay/Android Auto",
             "descripcion": "Activamos dicha función si tu unidad es compatible.",
-            "precio": 50
+            "precio": "50 €"
           },
           {
             "titulo": "Visualizar presión neumáticos de kPa a bar",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Pitido al bloquear el vehiculo",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Sonido de parktronic en el rango amarillo",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Intermitentes 3 a 6 pulsaciones",
             "descripcion": "Al usar la función rápida del intermitente, en vez de 3 pulsaciones, hará 6.",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Alargar tiempo luces de bienvenida",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Desactivar aviso acustico del cinturón de seguridad",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Test de agujas al dar contacto",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Aviso tapa combustible abierta",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Activar luces ambiente en radio y unidad SAM",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Deslimitar velocidad máxima (No AMG)",
             "descripcion": "Eliminamos la limitación electrónica de velocidad máxima de su vehículo.",
-            "precio": 100
+            "precio": "100 €"
           },
           {
             "titulo": "Deslimitar velocidad máxima (AMG)",
             "descripcion": "Eliminamos la limitación electrónica de velocidad máxima de su vehículo de 250km/h.",
-            "precio": 150
+            "precio": "150 €"
           },
           {
             "titulo": "Emotion Start (AMG)",
             "descripcion": "Breves pops and bangs al arrancar, solo en temperatura de servicio.",
-            "precio": 150
+            "precio": "150 €"
           },
           {
             "titulo": "Comprobar kilometraje real",
             "descripcion": "¿Dudas sobre si el kilometraje de su vehículo ha sido manipulado? Te ayudamos a descubrirlo.",
-            "precio": 50
+            "precio": "50 €"
           },
           {
             "titulo": "Diagnostico básico",
             "descripcion": "Lectura y/o borrado de fallos.",
-            "precio": 40
+            "precio": "35 €"
           },
           {
             "titulo": "Diagnostico avanzado",
             "descripcion": "Lectura y/o borrado de fallos, valores reales, test de componentes, etc..",
-            "precio": 75
+            "precio": "60 €"
           },
           {
             "titulo": "Ayuda con retrofit",
             "descripcion": "Te ayudamos con cualquier retrofit que requiera SCN coding. El precio puede variar en función de la dificultad del mismo.",
-            "precio": 50
+            "precio": "Desde 50 €"
+          },
+          {
+            "titulo": "Retrofit Comand NTG5S1",
+            "descripcion": "Si tu vehiculo tiene NTG 5.0 o Garmin te ayudamos a reequipar unidad NTG5S1",
+            "precio": "Consultar precio"
+          },
+          {
+            "titulo": "Retrofit cámara visión trasera plegable original",
+            "descripcion": "Reequipamos la cámara de visión trasera original en caso de no disponer de dicho extra",
+            "precio": "Consultar precio"
+          },
+          {
+            "titulo": "Espejos plegables electricamente",
+            "descripcion": "Reequipamos el extra de espejos plegables electricamente Código SA 500",
+            "precio": "Consultar precio"
           }
         ]
       },
@@ -1977,82 +2112,82 @@
           {
             "titulo": "Desactivar Start/Stop",
             "descripcion": "Sistema Start/Stop por defecto a OFF o Last Mode, depende del tipo de motor",
-            "precio": 50
+            "precio": "50 €"
           },
           {
             "titulo": "Alarma EDW",
             "descripcion": "Activamos alarma perimetral EDW.",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Visualizar presión neumáticos de kPa a bar",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Luces cortas al abrir el vehiculo",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Realidad aumentada permanente",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Cambio de modo de conducción al aranque",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Intermitentes 3 a 6 pulsaciones",
             "descripcion": "Al usar la función rápida del intermitente, en vez de 3 pulsaciones, hará 6.",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Desactivar aviso acustico del cinturón de seguridad",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Aviso tapa combustible abierta",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Deslimitar velocidad máxima (No AMG)",
             "descripcion": "Eliminamos la limitación electrónica de velocidad máxima de su vehículo.",
-            "precio": 100
+            "precio": "100 €"
           },
           {
             "titulo": "Deslimitar velocidad máxima (AMG)",
             "descripcion": "Eliminamos la limitación electrónica de velocidad máxima de su vehículo de 250km/h.",
-            "precio": 150
+            "precio": "150 €"
           },
           {
             "titulo": "Emotion Start (AMG)",
             "descripcion": "Breves pops and bangs al arrancar, solo en temperatura de servicio.",
-            "precio": 150
+            "precio": "150 €"
           },
           {
             "titulo": "Comprobar kilometraje real",
             "descripcion": "¿Dudas sobre si el kilometraje de su vehículo ha sido manipulado? Te ayudamos a descubrirlo.",
-            "precio": 50
+            "precio": "50 €"
           },
           {
             "titulo": "Diagnostico básico",
             "descripcion": "Lectura y/o borrado de fallos.",
-            "precio": 40
+            "precio": "35 €"
           },
           {
             "titulo": "Diagnostico avanzado",
             "descripcion": "Lectura y/o borrado de fallos, valores reales, test de componentes, etc..",
-            "precio": 75
+            "precio": "60 €"
           },
           {
             "titulo": "Ayuda con retrofit",
             "descripcion": "Te ayudamos con cualquier retrofit que requiera SCN coding. El precio puede variar en función de la dificultad del mismo.",
-            "precio": 50
+            "precio": "Desde 50 €"
           }
         ]
       }
@@ -2068,67 +2203,67 @@
           {
             "titulo": "Desactivar aviso acústico cinturon seguridad",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Mostrar litros de combustible retantes",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Mostrar rango de km retantes",
             "descripcion": "Con esta activación siempre nos mostrará el rango restante en km.",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Deslimitar velocidad máxima (No AMG)",
             "descripcion": "Eliminamos la limitación electrónica de velocidad máxima de su vehículo.",
-            "precio": 100
+            "precio": "100 €"
           },
           {
             "titulo": "Deslimitar velocidad máxima (AMG)",
             "descripcion": "Eliminamos la limitación electrónica de velocidad máxima de su vehículo de 250km/h.",
-            "precio": 150
+            "precio": "150 €"
           },
           {
             "titulo": "Cambio de volumen del parktronic",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Usar luces de niebla para los giros",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Alargar tiempo retardo de apagado unidad Comand",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Permitir reproducción de vídeo en movimiento en la unidad Comand",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Comprobar kilometraje real",
             "descripcion": "¿Dudas sobre si el kilometraje de su vehículo ha sido manipulado? Te ayudamos a descubrirlo.",
-            "precio": 50
+            "precio": "50 €"
           },
           {
             "titulo": "Diagnostico básico",
             "descripcion": "Lectura y/o borrado de fallos.",
-            "precio": 40
+            "precio": "35 €"
           },
           {
             "titulo": "Diagnostico avanzado",
             "descripcion": "Lectura y/o borrado de fallos, valores reales, test de componentes, etc..",
-            "precio": 75
+            "precio": "60 €"
           },
           {
             "titulo": "Ayuda con retrofit",
             "descripcion": "Te ayudamos con cualquier retrofit que requiera SCN coding. El precio puede variar en función de la dificultad del mismo.",
-            "precio": 50
+            "precio": "Desde 50 €"
           }
         ]
       }
@@ -2144,67 +2279,67 @@
           {
             "titulo": "Desactivar aviso acústico cinturon seguridad",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Mostrar litros de combustible retantes",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Mostrar rango de km retantes",
             "descripcion": "Con esta activación siempre nos mostrará el rango restante en km.",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Deslimitar velocidad máxima (No AMG)",
             "descripcion": "Eliminamos la limitación electrónica de velocidad máxima de su vehículo.",
-            "precio": 100
+            "precio": "100 €"
           },
           {
             "titulo": "Deslimitar velocidad máxima (AMG)",
             "descripcion": "Eliminamos la limitación electrónica de velocidad máxima de su vehículo de 250km/h.",
-            "precio": 150
+            "precio": "150 €"
           },
           {
             "titulo": "Cambio de volumen del parktronic",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Usar luces de niebla para los giros",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Alargar tiempo retardo de apagado unidad Comand",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Permitir reproducción de vídeo en movimiento en la unidad Comand",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Comprobar kilometraje real",
             "descripcion": "¿Dudas sobre si el kilometraje de su vehículo ha sido manipulado? Te ayudamos a descubrirlo.",
-            "precio": 50
+            "precio": "50 €"
           },
           {
             "titulo": "Diagnostico básico",
             "descripcion": "Lectura y/o borrado de fallos.",
-            "precio": 40
+            "precio": "35 €"
           },
           {
             "titulo": "Diagnostico avanzado",
             "descripcion": "Lectura y/o borrado de fallos, valores reales, test de componentes, etc..",
-            "precio": 75
+            "precio": "60 €"
           },
           {
             "titulo": "Ayuda con retrofit",
             "descripcion": "Te ayudamos con cualquier retrofit que requiera SCN coding. El precio puede variar en función de la dificultad del mismo.",
-            "precio": 50
+            "precio": "Desde 50 €"
           }
         ]
       }
@@ -2220,67 +2355,67 @@
           {
             "titulo": "Desactivar aviso acústico cinturon seguridad",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Mostrar litros de combustible retantes",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Mostrar rango de km retantes",
             "descripcion": "Con esta activación siempre nos mostrará el rango restante en km.",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Deslimitar velocidad máxima (No AMG)",
             "descripcion": "Eliminamos la limitación electrónica de velocidad máxima de su vehículo.",
-            "precio": 100
+            "precio": "100 €"
           },
           {
             "titulo": "Deslimitar velocidad máxima (AMG)",
             "descripcion": "Eliminamos la limitación electrónica de velocidad máxima de su vehículo de 250km/h.",
-            "precio": 150
+            "precio": "150 €"
           },
           {
             "titulo": "Cambio de volumen del parktronic",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Usar luces de niebla para los giros",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Alargar tiempo retardo de apagado unidad Comand",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Permitir reproducción de vídeo en movimiento en la unidad Comand",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Comprobar kilometraje real",
             "descripcion": "¿Dudas sobre si el kilometraje de su vehículo ha sido manipulado? Te ayudamos a descubrirlo.",
-            "precio": 50
+            "precio": "50 €"
           },
           {
             "titulo": "Diagnostico básico",
             "descripcion": "Lectura y/o borrado de fallos.",
-            "precio": 40
+            "precio": "35 €"
           },
           {
             "titulo": "Diagnostico avanzado",
             "descripcion": "Lectura y/o borrado de fallos, valores reales, test de componentes, etc..",
-            "precio": 75
+            "precio": "60 €"
           },
           {
             "titulo": "Ayuda con retrofit",
             "descripcion": "Te ayudamos con cualquier retrofit que requiera SCN coding. El precio puede variar en función de la dificultad del mismo.",
-            "precio": 50
+            "precio": "Desde 50 €"
           }
         ]
       }
@@ -2296,67 +2431,67 @@
           {
             "titulo": "Desactivar aviso acústico cinturon seguridad",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Mostrar litros de combustible retantes",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Mostrar rango de km retantes",
             "descripcion": "Con esta activación siempre nos mostrará el rango restante en km.",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Deslimitar velocidad máxima (No AMG)",
             "descripcion": "Eliminamos la limitación electrónica de velocidad máxima de su vehículo.",
-            "precio": 100
+            "precio": "100 €"
           },
           {
             "titulo": "Deslimitar velocidad máxima (AMG)",
             "descripcion": "Eliminamos la limitación electrónica de velocidad máxima de su vehículo de 250km/h.",
-            "precio": 150
+            "precio": "150 €"
           },
           {
             "titulo": "Cambio de volumen del parktronic",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Usar luces de niebla para los giros",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Alargar tiempo retardo de apagado unidad Comand",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Permitir reproducción de vídeo en movimiento en la unidad Comand",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Comprobar kilometraje real",
             "descripcion": "¿Dudas sobre si el kilometraje de su vehículo ha sido manipulado? Te ayudamos a descubrirlo.",
-            "precio": 50
+            "precio": "50 €"
           },
           {
             "titulo": "Diagnostico básico",
             "descripcion": "Lectura y/o borrado de fallos.",
-            "precio": 40
+            "precio": "35 €"
           },
           {
             "titulo": "Diagnostico avanzado",
             "descripcion": "Lectura y/o borrado de fallos, valores reales, test de componentes, etc..",
-            "precio": 75
+            "precio": "60 €"
           },
           {
             "titulo": "Ayuda con retrofit",
             "descripcion": "Te ayudamos con cualquier retrofit que requiera SCN coding. El precio puede variar en función de la dificultad del mismo.",
-            "precio": 50
+            "precio": "Desde 50 €"
           }
         ]
       },
@@ -2366,52 +2501,52 @@
           {
             "titulo": "Desactivar Start/Stop",
             "descripcion": "Sistema Start/Stop por defecto a OFF o Last Mode, depende del tipo de motor",
-            "precio": 50
+            "precio": "50 €"
           },
           {
             "titulo": "Desactivar aviso acústico cinturon seguridad",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Mostrar rango de km retantes",
             "descripcion": "Con esta activación siempre nos mostrará el rango restante en km.",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Mostrar litros de combustible retantes",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Deslimitar velocidad máxima (No AMG)",
             "descripcion": "Eliminamos la limitación electrónica de velocidad máxima de su vehículo.",
-            "precio": 100
+            "precio": "100 €"
           },
           {
             "titulo": "Deslimitar velocidad máxima (AMG)",
             "descripcion": "Eliminamos la limitación electrónica de velocidad máxima de su vehículo de 250km/h.",
-            "precio": 150
+            "precio": "150 €"
           },
           {
             "titulo": "Comprobar kilometraje real",
             "descripcion": "¿Dudas sobre si el kilometraje de su vehículo ha sido manipulado? Te ayudamos a descubrirlo.",
-            "precio": 50
+            "precio": "50 €"
           },
           {
             "titulo": "Diagnostico básico",
             "descripcion": "Lectura y/o borrado de fallos.",
-            "precio": 40
+            "precio": "35 €"
           },
           {
             "titulo": "Diagnostico avanzado",
             "descripcion": "Lectura y/o borrado de fallos, valores reales, test de componentes, etc..",
-            "precio": 75
+            "precio": "60 €"
           },
           {
             "titulo": "Ayuda con retrofit",
             "descripcion": "Te ayudamos con cualquier retrofit que requiera SCN coding. El precio puede variar en función de la dificultad del mismo.",
-            "precio": 50
+            "precio": "Desde 50 €"
           }
         ]
       }
@@ -2427,67 +2562,67 @@
           {
             "titulo": "Desactivar aviso acústico cinturon seguridad",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Mostrar litros de combustible retantes",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Mostrar rango de km retantes",
             "descripcion": "Con esta activación siempre nos mostrará el rango restante en km.",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Deslimitar velocidad máxima (No AMG)",
             "descripcion": "Eliminamos la limitación electrónica de velocidad máxima de su vehículo.",
-            "precio": 100
+            "precio": "100 €"
           },
           {
             "titulo": "Deslimitar velocidad máxima (AMG)",
             "descripcion": "Eliminamos la limitación electrónica de velocidad máxima de su vehículo de 250km/h.",
-            "precio": 150
+            "precio": "150 €"
           },
           {
             "titulo": "Cambio de volumen del parktronic",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Usar luces de niebla para los giros",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Alargar tiempo retardo de apagado unidad Comand",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Permitir reproducción de vídeo en movimiento en la unidad Comand",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Comprobar kilometraje real",
             "descripcion": "¿Dudas sobre si el kilometraje de su vehículo ha sido manipulado? Te ayudamos a descubrirlo.",
-            "precio": 50
+            "precio": "50 €"
           },
           {
             "titulo": "Diagnostico básico",
             "descripcion": "Lectura y/o borrado de fallos.",
-            "precio": 40
+            "precio": "35 €"
           },
           {
             "titulo": "Diagnostico avanzado",
             "descripcion": "Lectura y/o borrado de fallos, valores reales, test de componentes, etc..",
-            "precio": 75
+            "precio": "60 €"
           },
           {
             "titulo": "Ayuda con retrofit",
             "descripcion": "Te ayudamos con cualquier retrofit que requiera SCN coding. El precio puede variar en función de la dificultad del mismo.",
-            "precio": 50
+            "precio": "Desde 50 €"
           }
         ]
       },
@@ -2497,72 +2632,72 @@
           {
             "titulo": "Desactivar Start/Stop",
             "descripcion": "Sistema Start/Stop por defecto a OFF o Last Mode, depende del tipo de motor",
-            "precio": 50
+            "precio": "50 €"
           },
           {
             "titulo": "Desactivar aviso acústico cinturon seguridad",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Mostrar rango de km retantes",
             "descripcion": "Con esta activación siempre nos mostrará el rango restante en km.",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Deslimitar velocidad máxima (No AMG)",
             "descripcion": "Eliminamos la limitación electrónica de velocidad máxima de su vehículo.",
-            "precio": 100
+            "precio": "100 €"
           },
           {
             "titulo": "Deslimitar velocidad máxima (AMG)",
             "descripcion": "Eliminamos la limitación electrónica de velocidad máxima de su vehículo de 250km/h.",
-            "precio": 150
+            "precio": "150 €"
           },
           {
             "titulo": "Intermitente al realizar giro",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Alarma EDW",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Alargar tiempo retardo de apagado unidad Comand",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Permitir reproducción de vídeo en movimiento en la unidad Comand",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Sonido de parktronic en rango amarillo",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Comprobar kilometraje real",
             "descripcion": "¿Dudas sobre si el kilometraje de su vehículo ha sido manipulado? Te ayudamos a descubrirlo.",
-            "precio": 50
+            "precio": "50 €"
           },
           {
             "titulo": "Diagnostico básico",
             "descripcion": "Lectura y/o borrado de fallos.",
-            "precio": 40
+            "precio": "35 €"
           },
           {
             "titulo": "Diagnostico avanzado",
             "descripcion": "Lectura y/o borrado de fallos, valores reales, test de componentes, etc..",
-            "precio": 75
+            "precio": "60 €"
           },
           {
             "titulo": "Ayuda con retrofit",
             "descripcion": "Te ayudamos con cualquier retrofit que requiera SCN coding. El precio puede variar en función de la dificultad del mismo.",
-            "precio": 50
+            "precio": "Desde 50 €"
           }
         ]
       }
@@ -2578,67 +2713,67 @@
           {
             "titulo": "Desactivar aviso acústico cinturon seguridad",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Mostrar litros de combustible retantes",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Mostrar rango de km retantes",
             "descripcion": "Con esta activación siempre nos mostrará el rango restante en km.",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Deslimitar velocidad máxima (No AMG)",
             "descripcion": "Eliminamos la limitación electrónica de velocidad máxima de su vehículo.",
-            "precio": 100
+            "precio": "100 €"
           },
           {
             "titulo": "Deslimitar velocidad máxima (AMG)",
             "descripcion": "Eliminamos la limitación electrónica de velocidad máxima de su vehículo de 250km/h.",
-            "precio": 150
+            "precio": "150 €"
           },
           {
             "titulo": "Cambio de volumen del parktronic",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Usar luces de niebla para los giros",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Alargar tiempo retardo de apagado unidad Comand",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Permitir reproducción de vídeo en movimiento en la unidad Comand",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Comprobar kilometraje real",
             "descripcion": "¿Dudas sobre si el kilometraje de su vehículo ha sido manipulado? Te ayudamos a descubrirlo.",
-            "precio": 50
+            "precio": "50 €"
           },
           {
             "titulo": "Diagnostico básico",
             "descripcion": "Lectura y/o borrado de fallos.",
-            "precio": 40
+            "precio": "35 €"
           },
           {
             "titulo": "Diagnostico avanzado",
             "descripcion": "Lectura y/o borrado de fallos, valores reales, test de componentes, etc..",
-            "precio": 75
+            "precio": "60 €"
           },
           {
             "titulo": "Ayuda con retrofit",
             "descripcion": "Te ayudamos con cualquier retrofit que requiera SCN coding. El precio puede variar en función de la dificultad del mismo.",
-            "precio": 50
+            "precio": "Desde 50 €"
           }
         ]
       },
@@ -2648,72 +2783,72 @@
           {
             "titulo": "Desactivar Start/Stop",
             "descripcion": "Sistema Start/Stop por defecto a OFF o Last Mode, depende del tipo de motor",
-            "precio": 50
+            "precio": "50 €"
           },
           {
             "titulo": "Desactivar aviso acústico cinturon seguridad",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Mostrar rango de km retantes",
             "descripcion": "Con esta activación siempre nos mostrará el rango restante en km.",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Deslimitar velocidad máxima (No AMG)",
             "descripcion": "Eliminamos la limitación electrónica de velocidad máxima de su vehículo.",
-            "precio": 100
+            "precio": "100 €"
           },
           {
             "titulo": "Deslimitar velocidad máxima (AMG)",
             "descripcion": "Eliminamos la limitación electrónica de velocidad máxima de su vehículo de 250km/h.",
-            "precio": 150
+            "precio": "150 €"
           },
           {
             "titulo": "Intermitente al realizar giro",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Alarma EDW",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Alargar tiempo retardo de apagado unidad Comand",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Permitir reproducción de vídeo en movimiento en la unidad Comand",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Sonido de parktronic en rango amarillo",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Comprobar kilometraje real",
             "descripcion": "¿Dudas sobre si el kilometraje de su vehículo ha sido manipulado? Te ayudamos a descubrirlo.",
-            "precio": 50
+            "precio": "50 €"
           },
           {
             "titulo": "Diagnostico básico",
             "descripcion": "Lectura y/o borrado de fallos.",
-            "precio": 40
+            "precio": "35 €"
           },
           {
             "titulo": "Diagnostico avanzado",
             "descripcion": "Lectura y/o borrado de fallos, valores reales, test de componentes, etc..",
-            "precio": 75
+            "precio": "60 €"
           },
           {
             "titulo": "Ayuda con retrofit",
             "descripcion": "Te ayudamos con cualquier retrofit que requiera SCN coding. El precio puede variar en función de la dificultad del mismo.",
-            "precio": 50
+            "precio": "Desde 50 €"
           }
         ]
       }
@@ -2729,67 +2864,67 @@
           {
             "titulo": "Desactivar aviso acústico cinturon seguridad",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Mostrar rango de km retantes",
             "descripcion": "Con esta activación siempre nos mostrará el rango restante en km.",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Visualizar presión neumáticos de kPa a bar",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Deslimitar velocidad máxima (No AMG)",
             "descripcion": "Eliminamos la limitación electrónica de velocidad máxima de su vehículo.",
-            "precio": 100
+            "precio": "100 €"
           },
           {
             "titulo": "Deslimitar velocidad máxima (AMG)",
             "descripcion": "Eliminamos la limitación electrónica de velocidad máxima de su vehículo de 250km/h.",
-            "precio": 150
+            "precio": "150 €"
           },
           {
             "titulo": "Cambio de volumen del parktronic",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Usar luces de niebla para los giros",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Alargar tiempo retardo de apagado unidad Comand",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Permitir reproducción de vídeo en movimiento en la unidad Comand",
             "descripcion": "",
-            "precio": 35
+            "precio": "35 €"
           },
           {
             "titulo": "Comprobar kilometraje real",
             "descripcion": "¿Dudas sobre si el kilometraje de su vehículo ha sido manipulado? Te ayudamos a descubrirlo.",
-            "precio": 50
+            "precio": "50 €"
           },
           {
             "titulo": "Diagnostico básico",
             "descripcion": "Lectura y/o borrado de fallos.",
-            "precio": 40
+            "precio": "35 €"
           },
           {
             "titulo": "Diagnostico avanzado",
             "descripcion": "Lectura y/o borrado de fallos, valores reales, test de componentes, etc..",
-            "precio": 75
+            "precio": "60 €"
           },
           {
             "titulo": "Ayuda con retrofit",
             "descripcion": "Te ayudamos con cualquier retrofit que requiera SCN coding. El precio puede variar en función de la dificultad del mismo.",
-            "precio": 50
+            "precio": "Desde 50 €"
           }
         ]
       }

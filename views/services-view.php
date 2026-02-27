@@ -65,7 +65,9 @@
             </div>
         </div>
         <div id="models-advice-block">
-            <p class="text-align-center">* Todos los modelos que aparecen pueden presentar errores en su descripción, falta de servicios y/o modelos, precios equívocos, etc. Por favor téngalo en cuenta, para cualquier duda <a id="link_mail_contacto" class="bolded" href="contacto.php">contáctenos</a>.</p>
+            <p class="text-align-center">* Todos los modelos que aparecen pueden presentar errores en su descripción,
+                falta de servicios y/o modelos, precios equívocos, etc. Por favor téngalo en cuenta, para cualquier duda
+                <a id="link_mail_contacto" class="bolded" href="contacto.php">contáctenos</a>.</p>
         </div>
     </main>
 

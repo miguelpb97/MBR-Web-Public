@@ -16,18 +16,41 @@
         rel="stylesheet" />
     <link rel="stylesheet" href="../css/style-base.css" />
     <link rel="stylesheet" href="../css/pages/style-admin_login.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" />
 </head>
 
 <body>
     <form method="POST">
         <h2 id="titulo">Panel de administración</h2>
+
         <input type="text" name="usuario" placeholder="Usuario" required>
-        <input type="password" name="password" placeholder="Contraseña" required>
+
+        <div class="password-wrapper">
+            <input type="password" id="password" name="password" placeholder="Contraseña" required>
+            <i id="togglePassword" class="fa-solid fa-eye toggle-password"></i>
+        </div>
+
         <button type="submit">Entrar</button>
+
         <?php if (!empty($error)): ?>
             <div class="error"><?= htmlspecialchars($error, ENT_QUOTES, 'UTF-8') ?></div>
         <?php endif; ?>
     </form>
 </body>
+<script>
+    document.getElementById('togglePassword').addEventListener('click', function () {
+        const input = document.getElementById('password');
+
+        if (input.type === 'password') {
+            input.type = 'text';
+            this.classList.remove('fa-eye');
+            this.classList.add('fa-eye-slash');
+        } else {
+            input.type = 'password';
+            this.classList.remove('fa-eye-slash');
+            this.classList.add('fa-eye');
+        }
+    });
+</script>
 
 </html>

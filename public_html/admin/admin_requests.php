@@ -25,7 +25,7 @@ if (isset($_GET['descargar']) && $_GET['descargar'] === 'csv') {
     header('Content-Disposition: attachment; filename=consultas.csv');
 
     $out = fopen('php://output', 'w');
-    fputcsv($out, ['ID', 'Nombre', 'Email', 'Teléfono', 'VIN', 'Mensaje', 'Fecha']);
+    fputcsv($out, ['ID', 'Nombre', 'Email', 'Teléfono', 'VIN', 'Mensaje', 'Servicio', 'Modelo', 'Fecha']);
     while ($r = $result->fetch_assoc()) {
         fputcsv($out, $r);
     }
@@ -44,4 +44,4 @@ $total = $data['total'];
 $paginas = (int) ceil($total / $por_pagina);
 
 // Vista
-require_once __DIR__ . '/../../views/admin_requests-view.php';
+require_once __DIR__ . '/../../views/admin/admin_requests-view.php';

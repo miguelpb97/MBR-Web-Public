@@ -57,16 +57,26 @@
 
     <main>
         <div class="container-services">
-            <h1 class="text-align-center heading-text model-header">Servicios para <?= $modelo['nombre'] ?>
-                <?= $anio ?>
+            <h1 class="text-align-center heading-text model-header">
+                Servicios para <?= htmlspecialchars($modelo['nombre']) ?> <?= htmlspecialchars($anio) ?>
             </h1>
+
             <div class="service-list-container">
                 <?php foreach ($servicios as $serv): ?>
                     <div class="service-block">
-                        <span class="service-block-tittle"><?= $serv['titulo'] ?></span>
-                        <p class="service-block-description"><?= $serv['descripcion'] ?></p>
-                        <span class="service-block-price"><?= $serv['precio'] ?> €</span>
-                        <a class="block-button-service" href="contacto.php">Me interesa</a>
+                        <span class="service-block-tittle">
+                            <?= htmlspecialchars($serv['titulo']) ?>
+                        </span>
+                        <p class="service-block-description">
+                            <?= htmlspecialchars($serv['descripcion']) ?>
+                        </p>
+                        <span class="service-block-price">
+                            <?= htmlspecialchars($serv['precio']) ?>
+                        </span>
+                        <a class="block-button-service"
+                            href="contacto.php?modelo=<?= urlencode($modelo['nombre'] . ' ' . $anio) ?>&servicio=<?= urlencode($serv['titulo']) ?>">
+                            Me interesa
+                        </a>
                     </div>
                 <?php endforeach; ?>
             </div>

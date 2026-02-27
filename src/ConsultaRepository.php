@@ -42,7 +42,7 @@ class ConsultaRepository
         $total = (int)$resTotal['total'];
 
         // Datos paginados
-        $sql = "SELECT id, nombre, email, telefono, vin, mensaje, fecha
+        $sql = "SELECT id, nombre, email, telefono, vin, mensaje, fecha, servicio, modelo
                 FROM consultas
                 $where
                 ORDER BY id DESC
@@ -83,7 +83,7 @@ class ConsultaRepository
             $types  = 'ssss';
         }
 
-        $sql = "SELECT id, nombre, email, telefono, vin, mensaje, fecha
+        $sql = "SELECT id, nombre, email, telefono, vin, mensaje, fecha, servicio, modelo
                 FROM consultas
                 $where
                 ORDER BY id DESC";
@@ -98,13 +98,13 @@ class ConsultaRepository
         return $this->conn->query($sql);
     }
 
-    public function crearConsulta(string $nombre, string $email, string $telefono, string $vin, string $mensaje): bool
+    public function crearConsulta(string $nombre, string $email, string $telefono, string $vin, string $mensaje, $servicio, $modelo): bool
     {
         $stmt = $this->conn->prepare(
-            "INSERT INTO consultas (nombre, email, telefono, vin, mensaje)
-             VALUES (?, ?, ?, ?, ?)"
+            "INSERT INTO consultas (nombre, email, telefono, vin, mensaje, servicio, modelo)
+             VALUES (?, ?, ?, ?, ?, ?, ?)"
         );
-        $stmt->bind_param('sssss', $nombre, $email, $telefono, $vin, $mensaje);
+        $stmt->bind_param('sssssss', $nombre, $email, $telefono, $vin, $mensaje, $servicio, $modelo);
         return $stmt->execute();
     }
 }

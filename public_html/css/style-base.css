@@ -1,7 +1,10 @@
 :root {
   /* Colores principales */
   --color-black: #000;
+  --color-black-2: #252525;
   --color-white: #ffffff;
+  --color-blue-1: #1e67aa;
+  --color-blue-2: #13416d;
 
   /* Grises generales */
   --color-gray-100: #f9f9f9;

@@ -1,20 +1,53 @@
 /*Tablets (768px – 1024px)*/
 
 @media (min-width: 768px) and (max-width: 1024px) {
+
   /* Navegación */
   .navigation-block {
-    padding-left: 8%;
-    padding-right: 8%;
+    padding-left: 7rem;
+    padding-right: 7rem;
   }
 
-  .navigation {
-    gap: 16px;
-    margin: 15px;
+  .hero-section {
+    position: relative;
+    margin-top: -12rem;
+    min-height: 100vh;
+    background-image: url("../img/hero_imagen1.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+  }
+
+  /* Oscurecer imagen */
+  .hero-overlay {
+    position: absolute;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.45);
+    z-index: 1;
+  }
+
+  .hero-content {
+    position: relative;
+    z-index: 2;
+    max-width: 900px;
+    padding: 2rem;
+  }
+
+  /* Títulos hero*/
+  .hero-title,
+  .hero-description,
+  .hero-subtitle {
+    color: white;
+    text-shadow: 0 2px 8px rgba(0, 0, 0, 0.6);
   }
 
   /* Hero */
   .hero-image {
-    width: 80%;
+    width: 90%;
   }
 
   /* Quiénes somos */
@@ -77,7 +110,7 @@
     align-items: center;
   }
 
-  .model-block > img {
+  .model-block>img {
     width: 18vh;
     height: 9vh;
     border-radius: 8px;
@@ -88,7 +121,7 @@
   .block-button-service {
     display: inline-block;
     padding: 10px 15px;
-    background: var(--color-black);
+    background: var(--color-blue-1);
     color: var(--color-white);
     border-radius: 12px;
     text-decoration: none;
@@ -96,7 +129,7 @@
   }
 
   .block-button-service:hover {
-    background: var(--color-black);
+    background: var(--color-blue-2);
   }
 
   .service-block-price {
@@ -126,30 +159,94 @@
   }
 }
 
-/* Moviles (menos de 768px) */
+/* Moviles (375px – 767px) */
 
-@media (max-width: 767px) {
+@media (min-width: 340px) and (max-width: 540px) {
+
+  /* Layout general */
+  .navigation-block-index {
+    padding-left: 1rem;
+    padding-right: 1rem;
+    flex-direction: column;
+  }
+
   /* Layout general */
   .navigation-block {
-    padding-left: 1.5rem;
-    padding-right: 1.5rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
     flex-direction: column;
-    gap: 1rem;
+  }
+
+  .navigation-logo {
+    width: 75px;
+    height: auto;
+    display: flex;
+    justify-content: flex-start;
+  }
+
+  .navigation-item {
+    font-weight: 400;
+    list-style: none;
   }
 
   .navigation {
     justify-content: center;
-    margin: 10px 0;
   }
 
   .hero-image {
-    width: 100%;
+    width: 60%;
+  }
+
+  .hero-section {
+    position: relative;
+    margin-top: -12rem;
+    min-height: 100vh;
+    background-image: url("../img/hero_imagen1.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+  }
+
+  .hero-overlay {
+    position: absolute;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.45);
+    z-index: 1;
+  }
+
+  .hero-content {
+    position: relative;
+    z-index: 2;
+    max-width: 900px;
+    padding: 2rem;
+  }
+
+  /* Títulos hero*/
+  .hero-title {
+    color: white;
+    text-shadow: 0 2px 8px rgba(0, 0, 0, 0.6);
+    font-weight: 600;
+    font-size: 1.2rem;
+  }
+
+  .hero-description,
+  .hero-subtitle {
+    color: white;
+    font-size: 1rem;
+    text-shadow: 0 2px 8px rgba(0, 0, 0, 0.6);
+    font-weight: 400;
   }
 
   .about-us-block-content,
   .about-us-services-block,
   .diagnostic-block {
     max-width: 100%;
+    padding-left: 1rem;
+    padding-right: 1rem;
   }
 
   /* Columna única en diagnóstico */
@@ -169,25 +266,30 @@
   */
 
   /* Primera fila texto + imagen */
-  .diagnostic-sub-block:nth-of-type(2) > div:first-child {
+  .diagnostic-sub-block:nth-of-type(2)>div:first-child {
     order: 1;
     /* texto */
   }
 
-  .diagnostic-sub-block:nth-of-type(2) > div:last-child {
+  .diagnostic-sub-block:nth-of-type(2)>div:last-child {
     order: 2;
     /* imagen */
   }
 
   /* Segunda fila en desktop es imagen + texto, aquí se invierte */
-  .diagnostic-sub-block:nth-of-type(3) > div:first-child {
+  .diagnostic-sub-block:nth-of-type(3)>div:first-child {
     order: 2;
     /* imagen pasa abajo */
   }
 
-  .diagnostic-sub-block:nth-of-type(3) > div:last-child {
+  .diagnostic-sub-block:nth-of-type(3)>div:last-child {
     order: 1;
     /* texto sube arriba */
+  }
+
+  .faq-block {
+    padding-left: 1rem;
+    padding-right: 1rem;
   }
 
   /* Ajustes de texto */
@@ -264,7 +366,7 @@
     align-items: center;
   }
 
-  .model-block > img {
+  .model-block>img {
     width: 15vh;
     height: 8vh;
     border-radius: 8px;
@@ -275,7 +377,7 @@
   .block-button-service {
     display: inline-block;
     padding: 10px 15px;
-    background: var(--color-black);
+    background: var(--color-blue-1);
     color: var(--color-white);
     border-radius: 12px;
     text-decoration: none;
@@ -283,7 +385,7 @@
   }
 
   .block-button-service:hover {
-    background: var(--color-black);
+    background: var(--color-blue-2);
   }
 
   .service-block-price {

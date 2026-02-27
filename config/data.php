@@ -2,7 +2,28 @@
 
 function cargarModelos() {
     $json = file_get_contents(__DIR__ . "/services.json");
-    return json_decode($json, true);
+    $data = json_decode($json, true);
+
+    if (is_array($data)) {
+        foreach ($data as &$clase) {
+            if (!isset($clase['anios']) || !is_array($clase['anios'])) continue;
+            foreach ($clase['anios'] as &$anio) {
+                if (!isset($anio['servicios']) || !is_array($anio['servicios'])) continue;
+                foreach ($anio['servicios'] as &$srv) {
+                    if (!isset($srv['precio'])) continue;
+                    // Si el precio es numérico (entero/float o cadena numérica), convertirlo a string y añadir símbolo €
+                    if (is_numeric($srv['precio'])) {
+                        $srv['precio'] = (string) $srv['precio'] . ' €';
+                    }
+                }
+                unset($srv);
+            }
+            unset($anio);
+        }
+        unset($clase);
+    }
+
+    return $data;
 }
 
 /* BBDD
